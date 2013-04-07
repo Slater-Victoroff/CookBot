@@ -1,11 +1,10 @@
 var casper = require('casper').create()
 var firstUrl;
 var categories = {};
+var fs = require('fs');
 
-var queries = ['apple', 'tomato', 'fries', 'broccoli',
-'lettuce','lentils','coke','bread','pasta','cereal','cheese',
-'skittles','beef','wine','tofu','sandwich', 'meat',
-'vegetable'];
+var queries = ['apple', 'tomato', 'fries', 'broccoli','bread','cereal','cheese',
+'beef','wine','sandwich', 'meat','pie', 'ice cream'];
 
 casper.start('http://nutritiondata.self.com/', function() {
 	this.echo(this.getCurrentUrl());
@@ -42,8 +41,12 @@ casper.each(queries, function(self, query){
 			finalString = replaced2String.replace(/ /g,"-").toLowerCase();
 			categories[finalString] = true
 		}
-		this.echo(JSON.stringify(categories));
+		this.echo(JSON.stringify(Object.keys(categories)));
 	});
 });
 
-casper.run();
+casper.run( function() {
+	var content = JSON.stringify(Object.keys(categories));
+	fs.write("/home/svictoroff/Documents/SelfImprovement/cookBot/catgories.json", content, 'w');
+	this.exit();
+});

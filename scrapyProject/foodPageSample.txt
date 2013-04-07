@@ -1,0 +1,4619 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+    <head>
+        <title>
+            
+                
+                    
+
+
+
+
+
+
+
+
+
+Nutrition Facts and Analysis for Butter, whipped, with salt
+
+                
+                
+            
+        </title>
+        
+
+<meta name="KEYWORDS" content="Butter, whipped, with salt, Nutrition, Calories, Fat, Carbohydrates, Protein, Cholesterol, Sodium, Fiber, Glycemic Index, Inflammation">
+<meta name="DESCRIPTION" content="Nutrition facts and Information for Butter, whipped, with salt">
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="expires" content="-1" />
+        <meta http-equiv="pragma" content="no-cache" />
+        <link rel="stylesheet" href="/stylesheets/global_print.css" type="text/css" media="print" />
+        <link rel="stylesheet" href="/stylesheets/global.css" type="text/css" />
+        
+        
+            <link rel="stylesheet" href="/stylesheets/right-rail-styles.css" type="text/css" />
+        
+            <link rel="stylesheet" href="/stylesheets/facebox.css" type="text/css" />
+        
+            <link rel="stylesheet" href="/stylesheets/printRecipe.css" type="text/css" />
+        
+            <link rel="stylesheet" href="/stylesheets/analysis.css" type="text/css" />
+        
+            <link rel="stylesheet" href="/stylesheets/factsOver.css" type="text/css" />
+        
+        <script type="text/javascript" src="/scripts/LAB.min.js"></script>
+
+        <script type="text/javascript" src="/scripts/global.js"></script>
+
+        
+        
+            <script type="text/javascript" src="/scripts/analysis.js"></script>
+        
+            <script type="text/javascript" src="/scripts/json.js"></script>
+        
+            <script type="text/javascript" src="/scripts/flash/flash.js"></script>
+        
+            <script type="text/javascript" src="/scripts/flash/JavaScriptFlashGateway.js"></script>
+        
+            <script type="text/javascript" src="/scripts/flash/label.js"></script>
+        
+            <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script>
+        
+            <script type="text/javascript" src="/scripts/jquery/expandCollapse.js"></script>
+        
+            <script type="text/javascript" src="/scripts/jquery/facebox.js"></script>
+        
+            <script type="text/javascript" src="/scripts/tabs.js"></script>
+        
+            <script type="text/javascript" src="/scripts/bubble-tooltip.js"></script>
+        
+            <script type="text/javascript" src="/scripts/cnp.js"></script>
+        
+            <script type="text/javascript" src="/scripts/cn.ecom.js"></script>
+        
+
+        
+
+        <script type="text/javascript" src="http://www.self.com/js/ecomfw.min.js"></script>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+    
+
+        
+            
+            
+        
+        
+            
+            
+        
+        
+            
+            
+        
+        
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+                
+                
+                                
+                
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+        
+        <script type="text/javascript" src="/scripts/ecom/promotheus.js"></script>
+        
+        
+    
+    
+
+
+
+        
+        
+
+        <script type="text/javascript" src="/scripts/cn.dart.js"></script>
+
+        <script type="text/javascript">
+               CN.site.init({
+                   code: 'ND',
+                   title: 'Nutrition Data',
+                   name: 'nutritiondata'
+               });
+        </script>
+
+        <script type="text/javascript" src="/scripts/cn.ad.modifiers.js"></script>
+        <script type="text/javascript" src="/scripts/cn.ad.lotame.js"></script>
+         <script type="text/javascript" src="/scripts/cn.ad.yieldex.js"></script>
+        <link rel="shortcut icon" href="/images/favicon.ico" />
+        
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+        
+        
+            <script type="text/javascript">
+    //<!--
+        
+        CN.dart.init({site:'self.dart', zone: 'nd_home;', kws:[ "1","facts","breakfast-cereals"], charmap : {' ' : '+', '-' : '_'}});
+    //-->
+    </script>
+        
+    
+
+
+        
+
+
+
+<script type="text/javascript">
+    categoryRedirect();
+    tyntVariables = {"ap":"Read More"};
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    if(document.forms['foodSearch']) {
+        
+            categoryOption(document.forms['foodSearch'].category_id, "19", "020", "Cereal Grains and Pasta", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "7", "008", "Breakfast Cereals", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "17", "018", "Baked Products", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "10", "011", "Vegetables and Vegetable Products", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "8", "009", "Fruits and Fruit Juices", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "11", "012", "Nut and Seed Products", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "15", "016", "Legumes and Legume Products", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "14", "015", "Finfish and Shellfish Products", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "4", "005", "Poultry Products", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "12", "013", "Beef Products", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "9", "010", "Pork Products", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "16", "017", "Lamb, Veal, and Game Products", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "6", "007", "Sausages and Luncheon Meats", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "0", "001", "Dairy and Egg Products", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "5", "006", "Soups, Sauces, and Gravies", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "3", "004", "Fats and Oils", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "22", "023", "Snacks", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "18", "019", "Sweets", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "1", "002", "Spices and Herbs", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "13", "014", "Beverages", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "2", "003", "Baby Foods", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "42", "043", "Ethnic Foods", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "21", "022", "Meals, Entrees, and Sidedishes", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "20", "021", "Fast Foods, generic", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "34", "035", "Foods from A&W", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "41", "042", "Foods from Arby's", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "48", "049", "Foods from Back Yard Burgers", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "43", "044", "Foods from Blimpie", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "30", "031", "Foods from Burger King", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "33", "034", "Foods from Carl's Jr.", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "50", "051", "Foods from Chick-fil-A", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "52", "053", "Foods from Cold Stone Creamery", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "56", "057", "Foods from Culver's", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "28", "029", "Foods from Dairy Queen", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "37", "038", "Foods from Del Taco", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "46", "047", "Foods from Dippin' Dots", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "36", "037", "Foods from Domino's", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "55", "056", "Foods from Donatos", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "53", "054", "Foods from Hardee's", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "44", "045", "Foods from In-N-Out Burger", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "57", "058", "Foods from Jamba Juice", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "26", "027", "Foods from KFC", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "29", "030", "Foods from Krispy Kreme", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "51", "052", "Foods from Krystal", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "47", "048", "Foods from Long John Silver's", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "23", "024", "Foods from McDonald's", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "45", "046", "Foods from Papa John's", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "54", "055", "Foods from Papa Murphy's", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "24", "025", "Foods from Pizza Hut", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "49", "050", "Foods from Rubio's", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "38", "039", "Foods from Sbarro", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "58", "059", "Foods from Starbucks", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "27", "028", "Foods from Subway", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "25", "026", "Foods from Taco Bell", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "32", "033", "Foods from TCBY", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "39", "040", "Foods from Teriyaki Stix", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "31", "032", "Foods from Wendy's", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "40", "041", "Foods from White Castle", "");
+        
+            categoryOption(document.forms['foodSearch'].category_id, "35", "036", "Foods from Wienerschnitzel", "");
+        
+    }
+</script>
+
+
+
+    
+    <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=dxuqCu3Pmr3OpHab7jrHtB&s=101"></script>
+
+<script type="text/javascript">
+/**** promotheusInitJs ****/
+
+window._ghearst_vars = (function() {
+    var
+        metaKeyWords = (function(){
+            var
+                i                  = 0,
+                metaKeywordContent ='',
+                nameAttribute      = null,
+                metaCollection     = document.getElementsByTagName('meta');
+
+            for (i = 0; i < metaCollection.length; i++) {
+                nameAttribute = metaCollection[i].name.search(/keywords/);
+                if (nameAttribute!= -1) {
+                    metaKeywordContent = metaCollection[i].content;
+                    metaKeywordContent = metaKeywordContent.replace(/,/g,'%2C'); // to replace ,
+                    metaKeywordContent = metaKeywordContent.replace(/ /g,''); // to replace space
+                }
+            }
+            return metaKeywordContent;
+        })();
+    return {
+        'ams_ads_script_src': 'http://subscribe.self.com/ams/page-ads.js?ad_category_prefix=&browser_path=%2F&cat_prefixes=%2C&keywords='+metaKeyWords+'&position_list=AMS_SLF_ND_POPUP_FLOATINGAD%2CAMS_SLF_ND_GLOBAL_RIGHTRAIL_A%2CAMS_SLF_ND_GLOBAL_EMBEDDEDFORM%2CAMS_SLF_ND_GLOBAL_RIGHTRAIL_B%2CAMS_SLF_ND_GLOBAL_FOOTER%2CAMS_SLF_ND_GLOBAL_HEADERLEFT_ROLLOVER%2CAMS_SLF_ND_GLOBAL_HEADER%2CAMS_SLF_ND_GLOBAL_HEADERCALLOUT%2CAMS_SLF_ND_GLOBAL_HEADERLEFT%2CAMS_SLF_ND_REGFORM_SUBSCRIBE%2CAMS_SLF_ND_GLOBAL_NAVBAR_SUBSCRIBELINK&site_prefix=condenast&subdomain=www&url_name='
+    };
+})();
+
+/**************************************/
+
+/**** promotheusJs ****/
+
+CN.hearstQue = (function () {
+  var queue = [],
+    alreadyDone = false,
+    order = 0;
+  return {
+    register: function (fn) {
+      if (!fn) {
+        return;
+      }
+      queue.push(fn);
+      if (alreadyDone) {
+        this.run(window.pageAds);
+      }
+    },
+    getQue: function () {
+      return queue;
+    },
+    run: function (pageAds) {
+      while (queue.length > 0) {
+        queue[0](pageAds);
+        queue.shift();
+      }
+      alreadyDone = true;
+    }
+  };
+})();
+
+/**************************************/
+/**** promotheus script.jsp ****/
+
+(function($) {
+    var show = function() {
+        $('.ecom-placement').each(function() {
+            $(this).css('visibility', 'visible');
+        });
+    };
+    // 
+    $LAB.script(_ghearst_vars.ams_ads_script_src)
+        .wait(function() {
+            // 
+            CN.hearstQue.run(window.pageAds);
+        });
+
+    // 
+    // setTimeout(show, 10 * 1000);
+
+    var pageadsReqURL = _ghearst_vars.ams_ads_script_src;
+
+    // simulate delayed response
+    var hangDuration = parseInt(CN.url.params('hangtest'), 10);
+    if(!isNaN(hangDuration)) {
+        pageadsReqURL = 'http://dev-cnee.condenastdigital.com/hangtest?ms='+hangDuration * 1000;
+    }
+    // request ecom server
+    $LAB.script(pageadsReqURL)
+        .wait(function() {
+                CN.hearstQue.run(window.pageAds);
+        });
+    // display placements based on nojoy
+    // display them unconditionally after 10 seconds
+    $(document).ready(function() {
+        var duration = 10;
+        if(CN.url.params('nojoy') == 1) {
+            duration = 0;
+        }
+        setTimeout(function() {
+            show();
+        }, duration * 1000);
+    });
+}(jQuery));
+
+
+
+
+</script>
+    </head>
+    <body>
+        <!-- <h1 style="font-size:50px; color:red;">Master</h1> -->
+
+        <div id="bannerAd">
+            
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div id="header728x90_frame" class="displayAd"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('header', {sz:'728x90', kws:["top"]});
+    //-->
+    </script>
+    
+
+
+         
+        </div>
+        <div id="header"
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+    <link rel="canonical" href="http://nutritiondata.self.com/facts/breakfast-cereals/1/1" />
+
+
+
+<!-- Start Tile: header.jsp  -->
+
+
+
+    <img class="subline" src="/images/global/rule_03.gif" style="width: 972px; height: 1px;" />
+
+
+<div id="selflogo">
+    <a href="http://www.self.com" target="_blank1">
+        <img id="self_generic_logo" src="/images/home/SELFlogo_home.gif" alt="Go to the Self homepage" title="Go to the Self homepage" float="left"  display="inline" width="100" height="31" >
+    </a>
+</div>
+<div id="ndlogo">
+    <a href="/">
+        <img id="nd_generic_logo" src="/images/home/NDlogo_home.jpg" alt="Nutrition Data know what you eat." title="Nutrition Data know what you eat." width="210" height="47" border="0">
+    </a>
+</div>
+
+<div id="random">
+    <img src="" id="headerImg" width="252" height="32"/>
+    <script type="text/javascript">
+        randomHeaderImg('headerImg');
+    </script>
+</div>
+
+<table class="searchIt" cellpadding="0" cellspacing="0" border="0"><tr>
+    <td>&nbsp;
+    <form style="display: inline;" name="foodSearch" method="post" onsubmit="clearDefault(this.freetext); this.action=addCategory('/foods-' + escape(this.freetext.value) + this.category_id.value + '000000000000000000.html'); return true;">
+        <table class="innerTable" cellpadding="0" cellspacing="0" border="0"><tr>
+            <td><input style="width: 131px;" type="text" value=" enter food name" name="freetext" size="9" onfocus="clearDefault(this);"/></td>
+            <td>&nbsp;in&nbsp;</td>
+            <td>
+
+
+
+
+
+<select class="catList"  name="category_id" id="TopSearchForm">
+    <option value="000">All food categories</option>
+</select>
+</td>
+            <td><input class="searchNow" type="image" src="/images/global/search.gif" value="Search" title="Search"></td>
+        </tr></table>
+    </form>
+    </td>
+</tr></table>
+<!-- End Tile: header.jsp -->
+
+        </div>
+
+        <div id="main_nav">
+            
+
+
+
+
+
+
+
+
+<div id="navigation">
+    <ul id="nav">
+        
+            <li style="background: none; height: 22px; width: 59px;"><a href="/"><div id="ndhome" onmouseover="mouseOverTopNavState(this.id);" onmouseout="mouseOutTopNavState(this.id);" class="homediv"> &nbsp;</div></a></li>
+        
+        <li id="tools">
+            <div id="toolsnav" onmouseover="mouseOverTopNavState(this.id);" onmouseout="mouseOutTopNavState(this.id);"> &nbsp;</div>
+            <iframe id="tools_iframe"></iframe>
+            <ul id="tools_subnav" onmouseover="mouseOverTopNavState('toolsnav'); " onmouseout="mouseOutTopNavState('toolsnav');">
+                <li><div class="topPiece"><span><a href="/tools/compare">Compare Foods</a></span></div></li>
+                <li><a href="/tools/data-entry">Custom Entry Tool</a></li>
+                <li><a href="/tools/nutrient-search">Nutrient Search Tool</a></li>
+                <li><a href="/tools/caloric-ratio-search">Caloric Ratio Search</a></li>
+                <li class="nutrition_target_map"><a href="/tools/nutritional-target-map-search">Nutritional Target Map Search</a></li>
+                <li><a href="/tools/calories-burned">Daily Needs Calculator</a></li>
+                <li><a href="/tools/google-toolbar-button">Google Toolbar Button</a></li>
+                <li><a href="/tools/firefox-plugin">Firefox Plugin</a></li>
+                <li style="border-bottom: solid 1px #808a95;" class="bottomlist"><div class="botPiece"><span><a href="/tools/searchbox">Food Search Widget</a></span></div></li>
+            </ul>
+        </li>
+        <li id="topics">
+            <div id="topicsnav" onmouseover="mouseOverTopNavState(this.id);" onmouseout="mouseOutTopNavState(this.id);" class="topicsdiv">&nbsp;</div>
+            <iframe id="topics_iframe"></iframe>
+            <ul id="topics_subnav" onmouseover="mouseOverTopNavState('topicsnav');" onmouseout="mouseOutTopNavState('topicsnav');">
+                <li><div class="topPiece"><span><a href="/dieting-weight-loss">Dieting and Weight Loss</a></span></div></li>
+                <li><a href="/heart-health">Heart Health</a></li>
+                <li><a href="/diabetes">Diabetes</a></li>
+                <li><a href="/topics/better-choices-diet">Better Choices Diet</a></li>
+                <li><a href="/topics/glycemic-index">Glycemic Index</a></li>
+                <li><a href="/topics/fullness-factor">Fullness Factor</a></li>
+                <li><a href="/topics/fatty-acids">Fatty Acids</a></li>
+                <li><a href="/topics/food-additives">Food Additives</a></li>
+                <li><a href="/topics/processing">Effects of Processing Food</a></li>
+                <li><a href="/topics/recipes">Recipes</a></li>
+                <li style="border-bottom: solid 1px #808a95;" class="bottomlist"><div class="botPiece"><span><a href="/topics/nutrition-news">Nutrition News</a></span></div></li>
+            </ul>
+        </li>
+
+        <li id="myFoods">
+            <div id="pantrynav" onmouseover="mouseOverTopNavState(this.id);" onmouseout="mouseOutTopNavState(this.id);" style="height: 22px; width: 84px; background: url(/images/global/navigation/pantry_nav.gif) no-repeat 0 -22px;">&nbsp;</div>
+            <iframe id="myFoods_iframe"></iframe>
+            <ul id="pantry_subnav" onmouseover="mouseOverTopNavState('pantrynav');" onmouseout="mouseOutTopNavState('pantrynav');">
+                <li><div class="topPiece"><span><a href="/mynd/myfoods">My Foods</a></span></div></li>
+                <li><a href="/mynd/myrecipes">My Recipes</a></li>
+                <li><a href="/mynd/mytracking">My Tracking</a></li>
+                <li><a href="/tools/preferences">My Preferences</a></li>
+                <li style="border-bottom: solid 1px #808a95;" class="bottomlist"><div class="botPiece"><span><a href="/user/profile_update">My Profile</a></span></div></li>
+            </ul>
+        </li>
+
+         <li id="blogs">
+            <div id="blogsnav" onmouseover="mouseOverTopNavState(this.id);" onmouseout="mouseOutTopNavState(this.id);" class="blogsdiv">&nbsp;</div>
+            <iframe id="blogs_iframe"></iframe>
+            <ul id="blogs_subnav" onmouseover="mouseOverTopNavState('blogsnav');" onmouseout="mouseOutTopNavState('blogsnav');">
+                <li><div class="topPiece"><span><a href="http://www.self.com/blogs/flash" target="_blank1">Nutrition Data blog</a></span></div></li>
+                <li><a href="http://www.self.com/blogs/flash" target="_blank1" >Heart Health blog</a></li>
+                <li><a href="http://www.self.com/blogs/flash" target="_blank1" >Diabetes blog</a></li>
+                <li style="border-bottom: solid 1px #808a95;" class="bottomlist"><div class="botPiece"><span><a href="http://www.self.com/blogs/flash" target="_blank1">Diet and Weight Loss blog</a></span></div></li>
+            </ul>
+        </li>
+
+        <li id="self">
+            <div id="selfnav" onmouseover="mouseOverTopNavState(this.id);" onmouseout="mouseOutTopNavState(this.id);" class="selfdiv">&nbsp;</div>
+            <iframe id="self_iframe"></iframe>
+            <ul id="self_subnav" onmouseover="mouseOverTopNavState('selfnav');" onmouseout="mouseOutTopNavState('selfnav');">
+                <li><div class="topPiece"><span><a href="http://www.self.com/fooddiet" target="_blank1">Food & Diet</a></span></div></li>
+                <li><a href="http://www.self.com/search/recipe" target="_blank1" >Recipes</a></li>
+                <li><a href="http://www.self.com/fitness" target="_blank1" >Fitness & Workouts</a></li>
+                <li><a href="http://www.self.com/blogs/flash" target="_blank1" >Healthy Bites</a></li>
+                <li><a href="http://www.self.com/blogs/flash" target="_blank1" >Eat Like Me</a></li>
+                <li><a href="http://www.self.com/blogs/flash" target="_blank1" >Healthy Self</a></li>
+                <li style="border-bottom: solid 1px #808a95;" class="bottomlist"><div class="botPiece">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+         <div id="AMS_SLF_ND_GLOBAL_NAVBAR_SUBSCRIBELINK" class="ecom-placement">
+            <a href="https://w1.buysub.com/loc/SLF/ATGFailsafeND" target="_blank" rel="nofollow">Subscribe to Self</a>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+<script type="text/javascript">
+CN.hearstQue.register(function(pageAds){
+    var div = null;
+    if ((typeof pageAds !== 'undefined') && (typeof pageAds.AMS_SLF_ND_GLOBAL_NAVBAR_SUBSCRIBELINK !== 'undefined') && (CN.url.params('nojoy') != 1) ) {
+
+        div = document.getElementById("AMS_SLF_ND_GLOBAL_NAVBAR_SUBSCRIBELINK");
+        div.innerHTML = "";
+
+        
+        jQuery("#AMS_SLF_ND_GLOBAL_NAVBAR_SUBSCRIBELINK").html(pageAds.AMS_SLF_ND_GLOBAL_NAVBAR_SUBSCRIBELINK.replace(/document.write\(.*\)/gi,"/*filtered by amg-magnet:document.write(...)*/"));
+        jQuery(div).css({
+            visibility: 'visible'
+        });
+    }
+
+    
+});
+
+</script>
+
+
+        </span>
+    
+
+    
+
+
+
+
+
+
+    
+    
+        
+        
+    
+
+</div></li>
+            </ul>
+        </li>
+
+        <li id="help">
+            <div id="helpnav" onmouseover="mouseOverTopNavState(this.id);" onmouseout="mouseOutTopNavState(this.id);" class="helpdiv">&nbsp;</div>
+            <iframe id="help_iframe"></iframe>
+            <ul id="help_subnav" onmouseover="mouseOverTopNavState('helpnav');" onmouseout="mouseOutTopNavState('helpnav');">
+                <li><div class="topPiece"><span><a href="/help/quickstart">Quick Start</a></span></div></li>
+                <li><a href="/help/search-tips">Search Tips</a></li>
+                <li><a href="/help/mynd-help">My ND Help</a></li>
+                <li><a href="/help/compare">Compare Foods Help</a></li>
+                <li><a href="/help/analysis-help">Nutrition Facts Help</a></li>
+                <li><a href="/help/analysis-help#cp-pyramid">Caloric Ratio Pyramid</a></li>
+                <li><a href="/help/nutrient-balance-indicator">Nutrient Balance Indicator</a></li>
+                <li><a href="/help/analysis-help#target-map">Nutritional Target Map</a></li>
+                <li><a href="/help/estimated-glycemic-load">Estimated Glycemic Load</a></li>
+                <li><a href="/help/inflammation">IF Rating</a></li>
+                <li><a href="/help/glossary">Nutrition Glossary</a></li>
+                <li><a href="/help/faq">Frequently Asked Questions</a></li>
+                <li><a href="/help/useragreement">User Agreement</a></li>
+                <li><a href="/help/privacy">Privacy Policy</a></li>
+                <li style="border-bottom: solid 1px #808a95;" class="bottomlist"><div class="botPiece"><span><a href="/help/about">About ND</a></span></div></li>
+            </ul>
+        </li>
+    </ul>
+    <div id="floatRight">
+        <div id="userName" style="display: none"></div>
+        <div id="logInControl" style="display: none">
+            <a class="userfont" href="/user/login"> <img border="0" src="/images/global/logIn.gif"/></a>
+            <span><a class="userfont" href="/user/registration"><img id="reglink" border="0" src="/images/global/register.gif"/></a></span>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    startList();
+    displayUserName('userName', 'logInControl');
+</script>
+
+    <h1 id="onPage">
+        
+            
+            
+                
+
+
+
+
+
+
+
+
+
+Nutrition Facts
+
+            
+        
+    </h1>
+
+
+        </div>
+
+        <div id="main">
+            <div id="content">
+                
+
+
+
+
+
+
+
+<!-- Begin Tile: facts.jsp -->
+
+<script type="text/javascript">
+     jQuery(document).ready(function() {
+
+  UI_actions();
+     });
+     </script>
+
+<script type="text/javascript">
+   jQuery(document).ready(function() {
+
+    jQuery('.close_image').click(function(){
+        jQuery('.infoe').fadeOut('fast');
+    });
+
+    if(location.href.indexOf('print') != -1 ){ 
+         jQuery('#facebox,.infoe').fadeIn('fast'); 
+         jQuery('#facebox,.infoe').css("top","60px;");
+        
+    }
+
+ }); 
+</script> 
+
+   <div id="info" style="display: none; ">
+   
+   <p> For best results, be sure to enable the option to PRINT BACKGROUND IMAGES in the following browsers:</p><p>
+ - Firefox (<em>File > Page Setup > Format & Options</em>)<br/>
+  - Internet Explorer 6/7 (<em>Tools > Internet Options > Advanced > Printing</em>)<br/>
+  - In Internet Explorer 7 you will need to adjust the default "Shrink To Fit" setting. <br/>
+ (Go <em>File > Print Preview > adjust the Shrink To Fit dropdown to 100%.</em>)<br/>
+  - Mac Safari (<em>Click print below > Copies & Pages > Safari</em>)<br/>
+</p>Note: Printing via Mac Firefox is currently not supported.
+<a id="printlink" style="width: 100px; display: block; position: relative; top: 35px; z-index: 1000; font-weight: bold;" href="javascript:window.print();"  'return false;'>Print this Page</a> 
+  </div>
+
+  <div id="facebox"  class="infoe" style="display:none;"> 
+    <div class="popup"> 
+      <table> 
+        <tbody> 
+          <tr> 
+            <td class="tl"/><td class="b"/><td class="tr"/> 
+          </tr> 
+          <tr> 
+            <td class="b"/> 
+            <td class="body"> 
+              <div class="content"> 
+               <div>
+  <p> For best results, be sure to enable the option to PRINT BACKGROUND IMAGES in the following browsers:</p>
+  - Firefox (<em>File > Page Setup > Format & Options</em>)<br/>
+  - Internet Explorer 6/7 (<em>Tools > Internet Options > Advanced > Printing</em>)<br/>
+  - In Internet Explorer 7 you will need to adjust the default "Shrink To Fit" setting. <br/>
+ (Go <em>File > Print Preview > adjust the Shrink To Fit dropdown to 100%.</em>)<br/>
+  - Mac Safari (<em>Click print below > Copies & Pages > Safari</em>)<br/>
+<br/><br/>Note: Printing via Mac Firefox is currently not supported. <br/>
+<a id="printlink" style="width: 100px; display: block; position: relative; top: 35px; z-index: 1000; font-weight: bold;" href="javascript:window.print();"  'return false;'>Print this Page</a> 
+  </div>
+  </div> 
+              <div class="footer"> 
+                <a class="close" 'return false;'> 
+                  <img src="/images/analysis/closelabel.gif" title="close" class="close_image" /> 
+                </a> 
+              </div> 
+            </td> 
+            <td class="b"/> 
+          </tr> 
+          <tr> 
+            <td class="bl"/><td class="b"/><td class="br"/> 
+          </tr> 
+        </tbody> 
+      </table> 
+    </div> 
+  </div>
+   
+<div class="printLayoutlink"> 
+<a href="javascript:window.close();" rel="facebox" class="facelink" 'return false;'>Close this Window</a>
+<a href="javascript:window.close();" rel="facebox" 'return false;'>
+<!--<img style="float: right; position: relative; top: -3px;left: -3px;" border="0" 
+src="/images/print.gif" />-->
+</a>
+</div>       
+
+<div id="forSafari"> 
+<a href="javascript:window.close();" class="facelink" 'return false;'>Close this Window</a>
+<a href="javascript:window.close();" 'return false;'>
+<!--<img style="float: right; position: relative; top: -3px;left: -3px;" border="0" 
+src="/images/print.gif" />-->
+</a>
+</div>
+   
+
+
+<!--[if IE]><style>img#scroll_image {margin-top: -1px;}</style><![endif]-->
+<span class="right">
+    <ul id="userSpecNavs">
+        <li class="emailIcon" style="background: none; position: relative;">
+    <a href="#" onclick="window.open('/facts/breakfast-cereals/1/1?print=true');">
+    <img class="printFacts" border="0" src="/images/tools/pantry/mynd/nd_print.gif" /></a>
+    <a href="#" onclick="window.open('/facts/breakfast-cereals/1/1?print=true');">Print</a>
+        </li>
+        <li class="emailIcon">
+<a href="/services/emailafriend/default/entry?referringPage=/facts/breakfast-cereals/1/1"><img class="emailIcon" border="0" src="/images/analysis/search/search_email.gif" /></a>
+<a href="/services/emailafriend/default/entry?referringPage=/facts/breakfast-cereals/1/1">Email a Friend</a>
+        </li>
+        <li class="questionIcon">
+         <a href="/help/analysis-help"><img class="questionIcon" border="0" src="/images/analysis/search/search_help.gif" /></a>
+            <a href="/help/analysis-help">How to interpret this</a>
+        </li>
+    </ul>
+</span>
+
+<div class="analysis-content-wrap">
+    <div class="padBox">
+        <div id="facts_header">
+            
+            
+            <ul class="menuaddOptions">
+                <li id="parentMenulist">
+                    <dd id="allmenus">
+                        <ul id="" class="addList">
+                            <li>
+                                <div class="menuList">
+                                    <a style="color: #fff; text-decoration: none;" title="Add Butter, whipped, with salt to tracking" class="AddFoodMenu" href="javascript:buildAddToMyTrackingUrl(1, document.form4.serving.selectedIndex)">Add to Tracking</a>
+                                    <a style="color: #fff; text-decoration: none;" title="Compare Butter, whipped, with salt to other foods" class="AddFoodMenuWide" href="/mynd/myfoods/compare-add/1/">Add to Compare</a>
+                                    <a style="color: #fff; text-decoration: none;" title="Create new recipe using Butter, whipped, with salt as an ingredient" class="AddFoodMenuWide" href="javascript:buildAddToRecipeUrl(1, document.form4.serving.selectedIndex)">Create Recipe</a>
+                                    
+                                        
+                                        
+                                            <a style="color: #fff; text-decoration: none;" title="Add Butter, whipped, with salt to My Foods" href="javascript:buildAddToMyNdUrl(1, document.form4.serving.selectedIndex)"><span title="Add Butter, whipped, with salt to My Foods" class="CloseFoodMenu">Add to My Foods</span></a>
+                                        
+                                    
+                                </div>
+                            </li>
+                        </ul>
+                    </dd>
+                </li>
+
+            </ul>
+            <h1>Butter, whipped, with salt</h1><br />
+            <form name="form4" action="" class="size">
+                Serving size:
+                <select name="serving" size="1" onchange="fillSpanValues(this.options[this.options.selectedIndex]); setEstimatedGlycemicLoadDetails(); update(this);">
+                    
+                        <option  value="100.0">100 grams </option>
+                    
+                        <option selected value="28.0">1 ounce  (28g)</option>
+                    
+                        <option  value="151.0">1 cup  (151g)</option>
+                    
+                        <option  value="9.25">1 tbsp  (9g)</option>
+                    
+                        <option  value="3.75">1 pat (1&quot; sq, 1/3&quot; high)  (4g)</option>
+                    
+                        <option  value="76.0">1 stick  (76g)</option>
+                    
+                </select>
+            </form>
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+        </div>
+
+        <!-- Facts Summary -->
+        <fieldset id="food-summary-container">
+            <legend class="mediumSummary">FOOD SUMMARY</legend>
+            <!--[if IE]><br class="clearer" /><![endif]-->
+            <div class="left" style="margin-right: 7px;">
+                <!-- Nutrition Label -->
+                <div id="nfl">
+                   
+
+
+
+
+
+
+
+<p>Nutrition facts label for Butter, whipped, with salt</p>
+        <!-- insert the movie-->
+        This feature requires Flash player to be installed in your browser.  <a href="http://macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOX" target="_blank">Download</a> the player here.
+
+                </div>
+                <a href="javascript:generateLabel(1, document.form4.serving.selectedIndex);">Download Printable Label Image</a>
+            </div>
+            <div class="left" style="margin-right: 7px;">
+                <span class="graphTitle">Nutritional Target Map</span>
+                <a onclick="hideBalloonsFD3();"><img onclick="nd_help('helpballoon_NTM','helpballoon_CRP');" alt="Estimated Glycemic Load" title="Nutritional Target Map" border="0" style="height: 15px; width: 74px; z-index: 1001; cursor: pointer;" src="/images/analysis/what-is-this-help.gif" /></a>
+                <div id="helpballoon_NTM">
+                    <div id="n2">
+                    <img onclick="nd_help('helpballoon_NTM','helpballoon_CRP');" style="cursor: pointer; float: right; margin: 10px 10px 0 0;" src="/images/home/closeIt.gif" />
+                    <p style="margin: 20px; padding: 0;">
+                    <b style="display: block;margin-bottom: 5px;">NUTRITIONAL TARGET MAP&trade;</b>
+                    The Nutritional Target Map&trade; allows you to see at a glance how foods line up with your nutritional and weight-management goals. The closer a food is to the right edge of the map, the more essential nutrients per calorie it contains. For a more nutritious diet, select foods that fall on the right half of the map.<br /><br />The closer a food is to the top edge of the map, the more likely it is to fill you up with fewer calories. If you want to restrict your caloric intake without feeling hungry, choose foods from the top half of the map.<br /><br />Foods that are close to the bottom edge are more calorie-dense. If you want to increase your calorie intake without getting too full, choose foods from the bottom half of the map.<br /><a style="font-size: 11px; color: #044a8f; display: block; margin: 10px 0 0 0; font-weight: bold;" href="/help/analysis-help#target-map">Read more about the Nutritional Target Map</a></p>
+                    <!--[if lte IE 6.5]><iframe class="IE6under"></iframe><![endif]-->
+                    </div>
+                </div><br />
+                <div class="chart" style="width: 196px; margin-bottom: 10px;">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="ntm">
+    <p>Nutritional Target Map for Butter, whipped, with salt</p>
+    <!-- insert the movie-->
+    This feature requires Flash player to be installed in your browser.  <a href="http://macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOX" target="_blank">Download</a> the player here.
+</div>
+
+<script type="text/javascript">
+    <!--
+        var FO = { name:"Nutritional Target Map for Butter, whipped, with salt", movie:"/images/flash/ntm.swf", width:"196", height:"142", wmode:"opaque", majorversion:"7", build:"0", flashvars:"ntmvars=0.5,0.7084316857708066" };
+        UFO.create(FO, "ntm");
+    -->
+</script>
+<span class="box_7">
+    
+        
+        
+            0.5
+        
+    
+</span>
+<span class="box_8">
+    
+        
+        
+            0.7
+        
+    
+</span>
+<span class="box_9">Fullness Factor</span>
+<span class="box_10">ND Rating</span>
+
+                </div>
+                <!-- ND opinion and rating -->
+                <br class="clearer" />
+                <div id="nd_opinion">
+                    
+
+
+
+
+
+
+
+<div class="opinion_header">NutritionData's &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<a onclick="hideBalloonsFD5();"><img onclick="nd_help('helpballoon_NDOp','helpballoon_NTM');" alt="Nutrition Data's Opinion" title="Nutrition Data's Opinion" border="0" style="height: 15px; width: 74px; cursor: pointer;" src="/images/analysis/what-is-this-help.gif" /></a>
+<br />Opinion</div>
+
+<div class="opinion_rating">
+    
+
+
+
+
+
+
+
+
+
+    <table width="100%">
+        <tr>
+            <td>Weight loss:</td>
+            <td>
+                <div class="rating">
+                    <!-- change the inline width style dynamically -->
+                    <div class="rating_off"><!-- --></div>
+                    <div class="rating_on" style="width: 0.0px;"><!-- --></div>
+                </div>
+            </td>
+        </tr>
+        <tr><td colspan="2"><div class="line"><!-- --></div></td></tr>
+        <tr>
+            <td>Optimum health:</td>
+            <td>
+                <div class="rating">
+                    <div class="rating_off"><!-- --></div>
+                    <div class="rating_on" style="width: 8.50118022924968px;"><!-- --></div>
+                </div>
+            </td>
+        </tr>
+        <tr><td colspan="2"><div class="line"><!-- --></div></td></tr>
+        <tr>
+            <td>Weight gain:</td>
+            <td>
+                <div class="rating">
+                    <div class="rating_off"><!-- --></div>
+                    <div class="rating_on" style="width: 20.152835778798615px;"><!-- --></div>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div class="opinion_description"><p><span class='theBad'>The bad</span>: This food is very high in Saturated Fat.</p></div>
+
+                </div>
+            </div>
+            <div class="left">
+                <!-- Caloric Ratio Pyramid -->
+                <span class="graphTitle">Caloric Ratio Pyramid</span>
+                <a onclick="hideBalloonsFD4();"><img onclick="nd_help('helpballoon_CRP','helpballoon_NTM');" alt="Estimated Glycemic Load" title="Caloric Ratio Pyramid" border="0" style="height: 15px; width: 74px; z-index: 1001; cursor: pointer;" src="/images/analysis/what-is-this-help.gif" /></a>
+                <div id="helpballoon_CRP"><img onclick="nd_help('helpballoon_CRP','helpballoon_NTM');" style="cursor: pointer; float: right; margin: 10px 10px 0 0;" src="/images/home/closeIt.gif" />
+                    <p style="margin: 20px; padding: 0;">
+                        <b style="display: block; margin-bottom: 5px;">CALORIC RATIO PYRAMID&trade;</b>
+                        This graphic shows you what percentage of the calories in a food come from carbohydrates, fats, proteins, and alcohol. If you are trying to achieve a specific distribution of calories, such as the 40/30/30 distribution of the Zone&trade; diet, or the more traditional 60/30/10 distribution, the Caloric Ratio Pyramid&trade; will show you how recipes, meal plans, or individual foods line up with those goals.<br /><br />Foods low in fat, for example, will cluster along the bottom edge of the pyramid, ranging from foods that are high in carbohydrates (at the left edge) to foods that are high in protein (at the right edge). Foods low in carbohydrates will cluster along the right edge of the pyramid, with foods that are high in fat at the upper edge and foods that are high in protein at the lower edge. Foods that have roughly the same number of calories from fats, calories, and protein will be found closer to the center of the pyramid.<br /><a style="font-size: 11px; color: #044a8f; display: block; margin: 10px 0 0 0; font-weight: bold;" href="/help/analysis-help#cp-pyramid">Read more about the Caloric Ratio Pyramid</a>
+                    </p>
+                    <!--[if lte IE 6.5]><iframe class="IE6under"></iframe><![endif]-->
+                </div>
+                <br />
+                <div class="chart" style="width: 195px;">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="crp">
+    <p>Caloric Ratio Pyramid for Butter, whipped, with salt</p>
+    <!-- insert the movie-->
+    This feature requires Flash player to be installed in your browser.  <a href="http://macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOX" target="_blank">Download</a> the player here.
+</div>
+
+
+   
+    
+    <script type="text/javascript">
+
+   if( (navigator.userAgent.indexOf("Firefox") != -1) && (window.location.href.indexOf("print") == -1) ){
+
+    var FO = { name:"Caloric Ratio for Butter, whipped, with salt", movie:"/images/flash/crp.swf", width:"196", height:"142", wmode:"transparent", majorversion:"9", build:"0", flashvars:"crpvars=0,99,1,0" };
+    UFO.create(FO, "crp");
+
+    }
+
+    else{
+
+    var FO = { name:"Caloric Ratio for Butter, whipped, with salt", movie:"/images/flash/crp.swf", width:"196", height:"142", wmode:"opaque", majorversion:"9", build:"0", flashvars:"crpvars=0,99,1,0" };
+    UFO.create(FO, "crp");
+
+    }
+      </script>
+      <table cellspacing="0" cellpadding="2" border="0">
+         <tr>
+             
+             <td class="carbs">0%</td>
+             <td class="fats">99%</td>
+             <td class="protein">1%</td>
+         </tr>
+         <tr>
+             
+             <td class="label">Carbs</td>
+             <td class="label">Fats</td>
+             <td>Protein</td>
+         </tr>
+      </table>
+   
+
+
+                </div>
+                <!--[if IE]><br /><![endif]-->
+                <br class="clearer" />
+                <div id="AnalysisinputModule">
+                    <div class="glycemic" title="Estimated Glycemic Load">
+                        <span id="SCORE_ESTIMATED_GLYCEMIC_LOAD" style="text-align: center;"></span>
+                        <div class="EGL_SLIDER">
+                            <div class="egl_slider_off"><!-- --></div>
+                            <div id="egl_slider_on"><!-- --></div>
+                        </div>
+                    </div>
+                    <div class="Inflammation" title="IF (Inflammation Factor) Rating">
+                        <span id="SCORE_INFLAMMATION_FACTOR"></span><br />
+                        <span style="font-size: 9px; text-align: center;">
+                            <span id="DETAIL_INFLAMMATION_FACTOR"></span>
+                        </span>
+                        <div class="IF_SLIDER">
+                            <div class="if_slider_off"><!-- --></div>
+                            <div id="if_slider_on"><!-- --></div>
+                        </div>
+                    </div>
+                    <a onclick="hideBalloonsFD1();"><img onclick="nd_help('helpballoon_EGL','helpballoon_IF');" alt="Estimated Glycemic Load" title="Estimated Glycemic Load" border="0" style="height: 15px; position: absolute; top: 132px;  left: 5px; width: 74px;  z-index: 1001; cursor: pointer;" src="/images/analysis/what-is-this-help.gif" /></a>
+                    <p style="height: 15px; position: absolute; top: 130px; width: 81px; line-height: 10px; z-index: 1000; cursor: pointer;">&nbsp;</p>
+                    <a onclick="hideBalloonsFD2();"><img onclick="nd_help('helpballoon_IF','helpballoon_EGL');" alt="Inflammation Factor" title="Inflammation Factor" border="0" style="height: 15px; position: absolute; top: 132px;  left: 110px; width: 74px;  z-index: 1001; cursor: pointer;" src="/images/analysis/what-is-this-help.gif" /></a><p style="height: 15px; position: absolute; left: 110px; top: 130px; width: 81px; line-height: 10px; z-index: 1000; cursor: pointer;" title="Inflammation Factor">&nbsp;</p>
+                    <div id="helpballoon_EGL">
+                        <img onclick="nd_help('helpballoon_EGL','helpballoon_IF');" style="cursor: pointer; float: right; margin: 10px 10px 0 0;" src="/images/home/closeIt.gif" />
+                        <p style="margin: 20px; padding: 0;">
+                        <b style="display: block;margin-bottom: 5px;">ESTIMATED GLYCEMIC LOAD&trade;</b>
+                        Glycemic load is a way of expressing a food or meal's effect on blood-sugar levels. Nutrition Data&rsquo;s patent-pending Estimated Glycemic Load&trade; (eGL) is available for every food in the database as well as for custom foods, meals, and recipes in your Pantry.<br /><br />How to interpret the values: Experts vary on their recommendations for what your total glycemic load should be each day. A typical target for total Estimated Glycemic Load is 100 or less per day. If you have diabetes or metabolic syndrome, you might want to aim a little lower. If you are not overweight and are physically active, a little higher is acceptable.<br /><a style="font-size: 11px; color: #044a8f; display: block; margin: 10px 0 0 0; font-weight: bold;" href="/help/estimated-glycemic-load">Read more about the eGL</a></p>
+                        <!--[if lte IE 6.5]><iframe class="IE6under"></iframe><![endif]-->
+                    </div>
+                    <div id="helpballoon_IF">
+                        <img onclick="nd_help('helpballoon_IF','helpballoon_EGL');" style="cursor: pointer; float: right; margin: 10px 10px 0 0;" src="/images/home/closeIt.gif" />
+                        <p style="margin: 20px; padding: 0;">
+                        <b style="display: block;margin-bottom: 5px;">IF (INFLAMMATION FACTOR) RATING&trade;</b>
+                        The IF (Inflammation Factor) Rating&trade; estimates the inflammatory or anti-inflammatory potential of individual foods or combinations of foods by calculating the net effect of different nutritional factors, such as fatty acids, antioxidants, and glycemic impact.<br /><br />How to interpret the values:  Foods with positive IF Ratings are considered anti-inflammatory, and those with negative IF Ratings are considered inflammatory. The higher the number, the stronger the effect. The goal is to balance negative foods with positive foods so that the combined rating for all foods eaten in a single day is positive.<br /><a style="font-size: 11px; color: #044a8f; display: block; margin: 10px 0 0 0; font-weight: bold;" href="/help/inflammation">Read more about the IF Rating</a></p>
+                        <!--[if lte IE 6.5]><iframe class="IE6under"></iframe><![endif]-->
+                    </div>
+                </div>
+            </div>
+            <br class="clearer" />
+        </fieldset>
+        <a name="see-more"></a>
+        <div align="center">
+            <a href="#see-more"><img src="/images/analysis/scroll-to-see-tab.gif" alt="Scroll to see more details" title="Scroll to see more details" id="scroll_image" /></a>
+        </div>
+        <br class="clearer" />
+        <div class="left" style="margin-right: 12px;">
+            <fieldset id="nutrient-balance-container">
+                <legend class="smallSummary">NUTRIENT BALANCE</legend>
+                <!--[if IE]><br class="clearer" /><br class="clearer" /><![endif]-->
+                <div align="center">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Nutrient Balance Indicator -->
+<script type="text/javascript">
+    <!--
+  if( (navigator.userAgent.indexOf("Firefox") != -1) && (window.location.href.indexOf("print") == -1) ){
+
+ var FO = { name:"Nutrient Balance Indicator for Butter, whipped, with salt", movie:"/images/flash/nbi.swf", width:"217", height:"157", wmode:"transparent", majorversion:"7", build:"0", flashvars:"pr=0.0&a=70.0&c=0.0&d=0.0&e=15.0&kv=10.0&th=0.0&ri=5.0&ni=0.0&b6=0.0&fo=0.0&b12=5.0&pa=0.0&se=0.0&mn=0.0&cu=0.0&ch=100.0&fe=0.0&kn=0.0&p=5.0&mg=0.0&ca=5.0&na=50.0&zn=0.0&sf=100.0&df=0.0" };
+    UFO.create(FO, "nbi");
+
+}
+
+else{
+
+    var FO = { name:"Nutrient Balance Indicator for Butter, whipped, with salt", movie:"/images/flash/nbi.swf", width:"217", height:"157", wmode:"opaque", majorversion:"7", build:"0", flashvars:"pr=0.0&a=70.0&c=0.0&d=0.0&e=15.0&kv=10.0&th=0.0&ri=5.0&ni=0.0&b6=0.0&fo=0.0&b12=5.0&pa=0.0&se=0.0&mn=0.0&cu=0.0&ch=100.0&fe=0.0&kn=0.0&p=5.0&mg=0.0&ca=5.0&na=50.0&zn=0.0&sf=100.0&df=0.0" };
+    UFO.create(FO, "nbi");
+}
+
+    -->
+</script>
+
+<div id="nbi">
+    <p>Nutrient Balance Indicator for Butter, whipped, with salt</p>
+    <!-- insert the movie-->
+    This feature requires Flash player to be installed in your browser.  <a href="http://macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOX" target="_blank">Download</a> the player here.
+</div>
+<div class="blackBorder">
+<div class="box_PQI">
+    
+        
+        
+            7
+        
+    
+</div>
+<span class="box_6">Completeness Score</span>
+</div>
+
+                </div>
+                <a onclick="hideBalloonsFD6();"><img onclick="nd_help('helpballoon_NBAL','helpballoon_NTM');" alt="Nutrient Balance Indicator" title="Nutrient Balance Indicator" border="0" style="height: 15px; width: 74px; z-index: 1001; cursor: pointer; margin-left: 45px;" src="/images/analysis/what-is-this-help.gif" /></a>
+                <div id="helpballoon_NBAL"><img onclick="nd_help('helpballoon_NBAL','helpballoon_NTM');" style="cursor: pointer; float: right; margin: 10px 10px 0 0;" src="/images/home/closeIt.gif" />
+                    <p style="margin: 20px; padding: 0;">
+                        <b style="display: block;margin-bottom: 5px;">NUTRIENT BALANCE INDICATOR&trade;</b>
+                        This symbol offers a visual representation of a food's nutritional strengths and weaknesses, with each spoke representing a different nutrient. The spoke for dietary fiber is colored green, protein is blue, vitamins are purple, minerals are white, and yellow represents a group of commonly overconsumed nutrients: saturated fat, cholesterol, and sodium.<br /><br />A Completeness Score between 0 and 100 is a relative indication of how complete the food is with respect to these nutrients. Although few (if any) individual foods provide all the essential nutrients, the Nutrient Balance Indicator and Completeness Score can help you construct meals that are nutritionally balanced and complete.<br /><a style="font-size: 11px; color: #044a8f; display: block; margin: 10px 0 0 0; font-weight: bold;" href="/help/analysis-help#nutrient-balance-indicator">Read more about the Nutrient Balance Indicator</a>
+                    </p>
+                    <!--[if lte IE 6.5]><iframe class="IE6under"></iframe><![endif]-->
+                </div>
+            </fieldset>
+        </div>
+        <div class="left">
+            <fieldset id="protein-quality-container">
+                <legend class="smallSummaryPro">PROTEIN QUALITY</legend>
+                <!--[if IE]><br class="clearer" /><br class="clearer" /><![endif]-->
+                <div align="center">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="pqi">
+    <p>Protein Quality for Butter, whipped, with salt</p>
+    <!-- insert the movie-->
+    This feature requires Flash player to be installed in your browser.  <a href="http://macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&promoid=BIOX" target="_blank">Download</a> the player here.
+</div>
+<div class="blackBorder">
+<script type="text/javascript">
+    <!--
+if( (navigator.userAgent.indexOf("Firefox") != -1) && (window.location.href.indexOf("print") == -1) ){
+
+    var FO = { name:"Protein Quality for Butter, whipped, with salt", movie:"/images/flash/pqi.swf", width:"217", height:"87", wmode:"transparent", majorversion:"7", build:"0", flashvars:"trp=100.0&thr=100.0&iso=100.0&leu=100.0&lys=100.0&mc=100.0&pt=100.0&val=100.0&hys=100.0" };
+    UFO.create(FO, "pqi");
+}
+else{
+    var FO = { name:"Protein Quality for Butter, whipped, with salt", movie:"/images/flash/pqi.swf", width:"217", height:"87", wmode:"opaque", majorversion:"7", build:"0", flashvars:"trp=100.0&thr=100.0&iso=100.0&leu=100.0&lys=100.0&mc=100.0&pt=100.0&val=100.0&hys=100.0" };
+    UFO.create(FO, "pqi");
+
+}
+    -->
+</script>
+
+<div class="box_PQI">
+    
+        
+        
+            136
+        
+    
+</div>
+<span class="box_6">Amino Acid Score</span>
+</div>
+
+                </div>
+                <a onclick="hideBalloonsFD7();"><img onclick=" nd_help('helpballoon_PQUAL','helpballoon_NTM');" alt="Protein Quality" title="Protein Quality" border="0" style="height: 15px; width: 74px; z-index: 1001; cursor: pointer;margin-left: 45px;" src="/images/analysis/what-is-this-help.gif" /></a>
+                <div id="helpballoon_PQUAL"><img onclick="nd_help('helpballoon_PQUAL','helpballoon_NTM');" style="cursor: pointer; float: right; margin: 10px 10px 0 0;" src="/images/home/closeIt.gif" />
+                    <p style="margin: 20px; padding: 0;">
+                        <b style="display: block;margin-bottom: 5px;">PROTEIN QUALITY</b>
+                        Protein quality is dependent on having all the essential amino acids in the proper proportions. If one or more amino acid is not present in sufficient amounts, the protein in your diet is considered incomplete.<br /><br />Each spoke on the Protein Quality graph represents one of the nine essential amino acids, and the graph shows how close the protein in your diet is to the optimal distribution of amino acids recommended by the Institute of Medicine's Food and Nutrition Board.<br /><br />An Amino Acid Score of 100 or higher indicates a complete or high-quality protein. If the Amino Acid Score is less than 100, a link is provided to complementary sources of protein. By combining complementary proteins, you may be able to increase the overall quality of the protein you consume.<br /><a style="font-size: 11px; color: #044a8f; display: block; margin: 10px 0 0 0; font-weight: bold;" href="/help/analysis-help#protein-quality">Read more about Protein Quality</a>
+                    </p>
+                </div>
+                <p style="margin: 10px 0pt 0pt 44px; width:215px;">
+                    
+                </p>
+            </fieldset>
+        </div>
+        <br class="clearer" />
+        <br class="clearer" />
+        <fieldset id="nutrition-info-container">
+            <legend class="largerSummary">NUTRITION INFORMATION</legend>
+            <!--[if IE]><br class="clearer" /><br class="clearer" /><![endif]-->
+            <div align="center">Amounts per <span id="servingsize3"></span></div>
+            <br class="clearer" />
+            
+
+
+
+
+
+
+
+
+
+
+
+<div align="center" id="NutritionInformationSlide">
+<table border="0" cellpadding="0" cellspacing="0" width="620">
+    <tr>
+        <td valign="top">
+            <div class="clearer m-t13" style="width: 300px;">
+            
+                <div class="groupBorder" style="height: 150px;">
+                    <div align="center" class="c01">Calorie Information</div>
+                    <div style="width: 286px;">
+                        <div class="c02 left" style="width: 225px;">Amounts Per Selected Serving</div>
+                        <div class="c02 left" style="width: 41px; text-align: right;">%DV</div>
+                
+                        <div class="clearer">
+                            <div class="nf1 left" style="width:113px;">Calories</div>
+                            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_0"></span></div>
+                            <div class="nf3 left" style="width:65px;"><span id="KJ_NUTRIENT_0"></span></div>
+                            <div class="nf4 left" style="width:40px;"><span id="DV_NUTRIENT_0"></span></div>
+                        </div>
+                
+                        <div class="clearer">
+                            <div class="nf1 left" style="width:113px;">&#160;&#160;From Carbohydrate</div>
+                            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_1"></span></div>
+                            <div class="nf3 left" style="width:65px;"><span id="KJ_NUTRIENT_1"></span></div>
+                            <div class="nf4 left" style="width:40px;"><span id="DV_NUTRIENT_1"></span></div>
+                        </div>
+                
+                        <div class="clearer">
+                            <div class="nf1 left" style="width:113px;">&#160;&#160;From Fat</div>
+                            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_2"></span></div>
+                            <div class="nf3 left" style="width:65px;"><span id="KJ_NUTRIENT_2"></span></div>
+                            <div class="nf4 left" style="width:40px;"><span id="DV_NUTRIENT_2"></span></div>
+                        </div>
+                
+                        <div class="clearer">
+                            <div class="nf1 left" style="width:113px;">&#160;&#160;From Protein</div>
+                            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_3"></span></div>
+                            <div class="nf3 left" style="width:65px;"><span id="KJ_NUTRIENT_3"></span></div>
+                            <div class="nf4 left" style="width:40px;"><span id="DV_NUTRIENT_3"></span></div>
+                        </div>
+                
+                        <div class="clearer">
+                            <div class="nf1 left" style="width:113px;">&#160;&#160;From Alcohol</div>
+                            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_138"></span></div>
+                            <div class="nf3 left" style="width:65px;"><span id="KJ_NUTRIENT_138"></span></div>
+                            <div class="nf4 left" style="width:40px;"><span id="DV_NUTRIENT_138"></span></div>
+                        </div>
+                
+                    </div>
+                </div>
+            </div>
+            <br class="clearer" />
+            <div class="clearer m-t13" style="width: 300px;">
+                <div class="groupBorder">
+                    <div align="center" class="c01">Carbohydrates</div>
+                    <div id="GROUP_CARBOHYDRATES" >
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="width: 286px;" class="nutList">
+    <div class="c02 left" style="width: 225px;">Amounts Per Selected Serving</div>
+    <div class="c02 left" style="width: 41px; text-align: right;">%DV</div>
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Total Carbohydrate</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_4"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_4"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_4"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Dietary Fiber</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_5"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_5"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_5"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Starch</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_6"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_6"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_6"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Sugars</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_7"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_7"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_7"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Sucrose</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_8"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_8"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_8"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Glucose</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_9"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_9"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_9"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Fructose</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_10"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_10"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_10"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Lactose</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_11"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_11"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_11"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Maltose</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_12"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_12"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_12"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Galactose</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_13"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_13"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_13"></span></div>
+ </div>
+        
+    
+</div>
+
+                    </div>
+                </div>
+            </div>
+            <img id="CARBOHYDRATES" class="expand_collapse" src="/images/analysis/moreDetails.gif" />
+            <br class="clearer" />
+            <div class="clearer m-t13" style="width: 300px;">
+                <div class="groupBorder">
+                    <div align="center" class="c01">Fats & Fatty Acids</div>
+                    <div id="GROUP_FATS" >
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="width: 286px;" class="nutList">
+    <div class="c02 left" style="width: 225px;">Amounts Per Selected Serving</div>
+    <div class="c02 left" style="width: 41px; text-align: right;">%DV</div>
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Total Fat</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_14"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_14"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_14"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Saturated Fat</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_15"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_15"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_15"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">4:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_16"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_16"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_16"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">6:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_17"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_17"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_17"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">8:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_18"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_18"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_18"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">10:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_19"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_19"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_19"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">12:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_20"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_20"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_20"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">13:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_21"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_21"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_21"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">14:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_22"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_22"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_22"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">15:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_23"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_23"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_23"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">16:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_24"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_24"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_24"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">17:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_25"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_25"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_25"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_26"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_26"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_26"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">19:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_27"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_27"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_27"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">20:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_28"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_28"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_28"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">22:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_29"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_29"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_29"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">24:00:00</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_30"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_30"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_30"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Monounsaturated Fat</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_31"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_31"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_31"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">14:01</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_32"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_32"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_32"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">15:01</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_33"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_33"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_33"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">16:1 undifferentiated</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_34"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_34"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_34"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">16:1 c</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_35"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_35"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_35"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">16:1 t</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_36"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_36"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_36"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">17:01</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_37"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_37"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_37"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:1 undifferentiated</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_38"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_38"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_38"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:1 c</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_39"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_39"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_39"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:1 t</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_40"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_40"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_40"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">20:01</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_41"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_41"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_41"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">22:1 undifferentiated</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_42"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_42"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_42"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">22:1 c</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_43"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_43"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_43"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">22:1 t</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_44"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_44"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_44"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">24:1 c</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_45"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_45"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_45"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Polyunsaturated Fat</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_46"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_46"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_46"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">16:2 undifferentiated</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_47"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_47"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_47"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:2 undifferentiated</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_48"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_48"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_48"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:2 n-6 c,c</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_49"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_49"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_49"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:2 c,t</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_50"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_50"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_50"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:2 t,c</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_51"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_51"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_51"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:2 t,t</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_52"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_52"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_52"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:2 i</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_53"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_53"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_53"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:2 t not further defined</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_54"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_54"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_54"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:03</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_55"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_55"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_55"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:3 n-3, c,c,c</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_56"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_56"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_56"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:3 n-6, c,c,c</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_57"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_57"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_57"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">18:4 undifferentiated</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_58"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_58"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_58"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">20:2 n-6 c,c</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_59"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_59"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_59"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">20:3 undifferentiated</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_60"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_60"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_60"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">20:3 n-3</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_61"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_61"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_61"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">20:3 n-6</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_62"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_62"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_62"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">20:4 undifferentiated</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_63"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_63"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_63"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">20:4 n-3</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_64"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_64"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_64"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">20:4 n-6</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_65"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_65"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_65"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">20:5 n-3</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_66"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_66"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_66"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">22:02</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_67"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_67"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_67"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">22:5 n-3</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_68"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_68"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_68"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">22:6 n-3</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_69"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_69"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_69"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Total trans fatty acids</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_70"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_70"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_70"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Total trans-monoenoic fatty acids</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_71"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_71"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_71"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Total trans-polyenoic fatty acids</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_132"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_132"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_132"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Total Omega-3 fatty acids</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_139"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_139"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_139"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Total Omega-6 fatty acids</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_140"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_140"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_140"></span></div>
+ </div>
+        
+    
+</div>
+
+                        <div style="padding-top:2px"><a class="nf" href="/topics/fatty-acids">Learn more about these fatty acids<br />and their equivalent names</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+              <img id="FATS" class="expand_collapse" src="/images/analysis/moreDetails.gif" />
+        </td>
+        <td class="p-l13" valign="top">
+            <div class="clearer m-t13" style="width: 300px;">
+                <div class="groupBorder">
+                    <div align="center" class="c01">Protein & Amino Acids</div>
+                    <div id="GROUP_PROTEINS" >
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="width: 286px;" class="nutList">
+    <div class="c02 left" style="width: 225px;">Amounts Per Selected Serving</div>
+    <div class="c02 left" style="width: 41px; text-align: right;">%DV</div>
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Protein</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_77"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_77"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_77"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Tryptophan</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_78"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_78"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_78"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Threonine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_79"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_79"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_79"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Isoleucine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_80"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_80"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_80"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Leucine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_81"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_81"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_81"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Lysine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_82"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_82"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_82"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Methionine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_83"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_83"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_83"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Cystine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_84"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_84"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_84"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Phenylalanine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_85"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_85"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_85"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Tyrosine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_86"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_86"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_86"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Valine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_87"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_87"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_87"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Arginine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_88"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_88"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_88"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Histidine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_89"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_89"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_89"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Alanine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_90"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_90"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_90"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Aspartic acid</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_91"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_91"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_91"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Glutamic acid</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_92"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_92"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_92"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Glycine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_93"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_93"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_93"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Proline</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_94"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_94"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_94"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Serine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_95"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_95"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_95"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Hydroxyproline</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_96"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_96"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_96"></span></div>
+ </div>
+        
+    
+</div>
+
+                    </div>
+                </div>
+            </div>
+            <img id="PROTEINS" class="expand_collapse" src="/images/analysis/moreDetails.gif" />
+            <br class="clearer" />
+            <div class="clearer m-t13" style="width: 300px;">
+                <div class="groupBorder">
+                    <div align="center" class="c01">Vitamins</div>
+                    <div id="GROUP_VITAMINS" >
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="width: 286px;" class="nutList">
+    <div class="c02 left" style="width: 225px;">Amounts Per Selected Serving</div>
+    <div class="c02 left" style="width: 41px; text-align: right;">%DV</div>
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Vitamin A</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_97"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_97"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_97"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Retinol</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_98"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_98"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_98"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Retinol Activity Equivalent</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_99"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_99"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_99"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Alpha Carotene</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_133"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_133"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_133"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Beta Carotene</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_134"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_134"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_134"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Beta Cryptoxanthin</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_135"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_135"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_135"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Lycopene</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_136"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_136"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_136"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Lutein+Zeaxanthin</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_137"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_137"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_137"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Vitamin C</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_100"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_100"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_100"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Vitamin D</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_101"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_101"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_101"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Vitamin E (Alpha Tocopherol)</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_102"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_102"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_102"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Beta Tocopherol</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_104"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_104"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_104"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Gamma Tocopherol</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_105"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_105"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_105"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Delta Tocopherol</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_106"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_106"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_106"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Vitamin K</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_103"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_103"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_103"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Thiamin</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_107"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_107"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_107"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Riboflavin</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_108"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_108"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_108"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Niacin</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_109"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_109"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_109"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Vitamin B6</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_110"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_110"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_110"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Folate</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_111"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_111"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_111"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Food Folate</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_112"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_112"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_112"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Folic Acid</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_113"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_113"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_113"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Dietary Folate Equivalents</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_114"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_114"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_114"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Vitamin B12</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_115"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_115"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_115"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Pantothenic Acid</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_116"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_116"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_116"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Choline</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_143"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_143"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_143"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Betaine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_144"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_144"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_144"></span></div>
+ </div>
+        
+    
+</div>
+
+                    </div>
+                </div>
+            </div>
+            <img id="VITAMINS" class="expand_collapse" src="/images/analysis/moreDetails.gif" />
+            <br class="clearer" />
+            <div class="clearer m-t13" style="width: 300px;">
+                <div class="groupBorder">
+                    <div align="center" class="c01">Minerals</div>
+                    <div id="GROUP_MINERALS" >
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="width: 286px;" class="nutList">
+    <div class="c02 left" style="width: 225px;">Amounts Per Selected Serving</div>
+    <div class="c02 left" style="width: 41px; text-align: right;">%DV</div>
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Calcium</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_117"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_117"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_117"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Iron</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_118"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_118"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_118"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Magnesium</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_119"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_119"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_119"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Phosphorus</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_120"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_120"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_120"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Potassium</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_121"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_121"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_121"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Sodium</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_122"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_122"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_122"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Zinc</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_123"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_123"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_123"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Copper</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_124"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_124"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_124"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Manganese</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_125"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_125"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_125"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Selenium</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_126"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_126"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_126"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Fluoride</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_145"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_145"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_145"></span></div>
+ </div>
+        
+    
+</div>
+
+                    </div>
+                </div>
+            </div>
+            <br class="clearer" />
+            <div class="clearer m-t13" style="width: 300px;">
+                <div class="groupBorder">
+                    <div align="center" class="c01">Sterols</div>
+                    <div id="GROUP_STEROLS" >
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="width: 286px;" class="nutList">
+    <div class="c02 left" style="width: 225px;">Amounts Per Selected Serving</div>
+    <div class="c02 left" style="width: 41px; text-align: right;">%DV</div>
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Cholesterol</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_72"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_72"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_72"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Phytosterols</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_73"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_73"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_73"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Campesterol</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_74"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_74"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_74"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Stigmasterol</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_75"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_75"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_75"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            
+
+             <div class="indentation"><!--Indent Nutrients--></div>
+    <span class="indented">Beta-sitosterol</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_76"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_76"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_76"></span></div>
+ </div>
+        
+    
+</div>
+
+                    </div>
+                </div>
+            </div>
+            <img id="STEROLS" class="expand_collapse" src="/images/analysis/moreDetails.gif" />
+            <br class="clearer" />
+            <div class="clearer m-t13" style="width: 300px;">
+                <div class="groupBorder">
+                    <div align="center" class="c01">Other</div>
+                    <div id="GROUP_OTHER" style="height: 120px;">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="width: 286px;" class="nutList">
+    <div class="c02 left" style="width: 225px;">Amounts Per Selected Serving</div>
+    <div class="c02 left" style="width: 41px; text-align: right;">%DV</div>
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Alcohol</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_127"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_127"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_127"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Water</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_128"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_128"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_128"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Ash</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_129"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_129"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_129"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Caffeine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_130"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_130"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_130"></span></div>
+ </div>
+        
+    
+        
+        <div class="clearer">
+           <div class="nf1 left" id="nfacts">
+            <span class="indented">Theobromine</span></div>
+            <div class="nf2 left" style="width:38px;"><span id="NUTRIENT_131"></span></div>
+            <div class="nf3 left" style="width:20px;"><span id="UNIT_NUTRIENT_131"></span></div>
+            <div class="nf4 left" style="width:31px;"><span id="DV_NUTRIENT_131"></span></div>
+ </div>
+        
+    
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+
+        </fieldset>
+        <br />
+        <!-- Footnotes -->
+        <div style="width: 630px;">
+            
+
+
+
+
+
+
+    <a name="footnotes"></a>
+
+    <p><b>Footnotes for Butter, whipped, with salt</b></p>
+    <div id="foot_notes">
+        
+            Source: Nutrient data for this listing was provided by USDA SR-21. Each "<b>~</b>" indicates a missing or incomplete value.
+        
+            <br /><br />Percent Daily Values (%DV) are for adults or children aged 4 or older, and are based on a 2,000 calorie reference diet.  Your daily values may be higher or lower based on your individual needs.
+        
+            <br /><br />Nutrition Data's Opinion, Completeness Score&#153;, Fullness Factor&#153;, Rating, Estimated Glycemic Load (eGL), and Better Choices Substitutions&#153; are editorial opinions of NutritionData.com, given without warranty, and are not intended to replace the advice of a nutritionist or health-care professional. Nutrition Data's opinions and ratings are based on weighted averages of the nutrient densities of those nutrients for which the FDA has established Daily Values, and do not consider other nutrients that may be important to your health or take into account your individual needs. Consequently, Nutrition Data's higher-rated foods may not necessarily be healthier for you than lower-rated ones. All foods, regardless of their rating, have the potential to play an important role in your diet.
+        
+            <br /><br />The Amino Acid Score has not been corrected for digestibility, which could reduce its value.
+        
+            <br /><br />IF Rating&#153; is a trademark of Monica Reinagel. Data for the IF Rating was provided by <a class="nf" target="_blank" href="http://www.inflammationfactor.com">inflammationfactor.com</a>.
+        
+    </div>
+
+        </div>
+    </div>
+    <!-- /div.padBox -->
+    <div class="analysis-content-wrap-footer"></div>
+</div>
+<!--/div#analysis-content-wrap -->
+
+<div id="helpballoon_NDOp"><img onclick="nd_help('helpballoon_NDOp','helpballoon_NTM');" style="cursor: pointer; float: right; margin: 10px 10px 0 0;" src="/images/home/closeIt.gif" />
+<p style="margin: 20px; padding: 0;">
+<b style="display: block;margin-bottom: 5px;">NUTRITION DATA'S OPINION</b>
+Nutrition Data awards foods 0 to 5 stars in each of three categories, based on their nutrient density (ND Rating) and their satiating effect (Fullness Factor&trade;). Foods that are both nutritious and filling are considered better choices for weight loss. Foods that are nutritious without being filling are considered better choices for healthy weight gain. Foods that have more essential nutrients per calorie are considered better choices for optimum health.<br /><br />Nutrition Data also indicates whether a food is particularly high or low in various nutrients, according to the dietary recommendations of the FDA.<br /><a style="font-size: 11px; color: #044a8f; display: block; margin: 10px 0 0 0; font-weight: bold;" href="/help/analysis-help#NDs-opinion">Read more about Nutrition Data's opinion</a></p>
+<!--[if lte IE 6.5]><iframe class="IE6under"></iframe><![endif]-->
+</div>
+
+    
+
+<script type="text/javascript">
+    <!--
+    foodNutrients = { NUTRIENT_142:"~", NUTRIENT_141:"~", NUTRIENT_140:"1831.8105", NUTRIENT_145:"2.799857", NUTRIENT_144:"0.29997736", NUTRIENT_143:"18.79937", FOODSERVING_URI_4:"C00001-01c4001", FOODSERVING_URI_5:"C00001-01c5001", FOODSERVING_URI_3:"C00001-01c3001", FOODSERVING_URI_2:"C00001-01c2001", FOODSERVING_URI_1:"C00001-01c1001", FOODSERVING_URI_0:"C00001-01c0001", UNIT_NUTRIENT_16:"mg", UNIT_NUTRIENT_17:"mg", UNIT_NUTRIENT_14:"g", UNIT_NUTRIENT_15:"g", UNIT_NUTRIENT_18:"mg", UNIT_NUTRIENT_19:"mg", UNIT_NUTRIENT_20:"mg", NUTRIENT_5:"0.0", NUTRIENT_4:"0.059997056", NUTRIENT_7:"0.059997056", NUTRIENT_6:"0.0", NUTRIENT_1:"0.4056817", UNIT_NUTRIENT_24:"mg", NUTRIENT_0:"716.98676", NUTRIENT_3:"3.6299057", UNIT_NUTRIENT_22:"mg", NUTRIENT_2:"712.8529", UNIT_NUTRIENT_26:"mg", NUTRIENT_8:"~", NUTRIENT_9:"~", UNIT_NUTRIENT_31:"g", UNIT_NUTRIENT_34:"mg", NUTRIENT_79:"38.0033", NUTRIENT_78:"12.00148", NUTRIENT_77:"0.8501146", NUTRIENT_76:"~", NUTRIENT_75:"~", NUTRIENT_74:"~", NUTRIENT_73:"~", NUTRIENT_72:"218.99742", NUTRIENT_71:"~", UNIT_NUTRIENT_38:"mg", NUTRIENT_70:"~", UNIT_NUTRIENT_46:"g", UNIT_NUTRIENT_41:"mg", UNIT_NUTRIENT_42:"mg", DV_NUTRIENT_77:"50.0", DV_NUTRIENT_72:"300.0", NUTRIENT_67:"~", NUTRIENT_66:"0.0", NUTRIENT_69:"0.0", NUTRIENT_68:"0.0", NUTRIENT_63:"0.0", NUTRIENT_62:"~", NUTRIENT_65:"~", NUTRIENT_64:"~", UNIT_NUTRIENT_48:"mg", NUTRIENT_61:"~", NUTRIENT_60:"~", UNIT_NUTRIENT_55:"mg", NUTRIENT_99:"683.91656", NUTRIENT_94:"82.00008", NUTRIENT_93:"18.00149", NUTRIENT_92:"178.01419", UNIT_NUTRIENT_58:"mg", NUTRIENT_91:"63.98985", NUTRIENT_98:"671.0765", NUTRIENT_97:"2499.118", NUTRIENT_96:"~", NUTRIENT_95:"45.993046", UNIT_NUTRIENT_63:"mg", DV_NUTRIENT_97:"5000.0", NUTRIENT_90:"28.996819", UNIT_NUTRIENT_68:"mg", UNIT_NUTRIENT_66:"mg", NUTRIENT_89:"23.001692", NUTRIENT_88:"31.00055", NUTRIENT_81:"83.00719", UNIT_NUTRIENT_69:"mg", NUTRIENT_80:"51.005302", NUTRIENT_83:"21.002775", NUTRIENT_82:"66.99792", NUTRIENT_85:"40.99647", NUTRIENT_84:"8.001201", NUTRIENT_87:"57.00155", NUTRIENT_86:"40.99647", UNIT_NUTRIENT_72:"mg", UNIT_NUTRIENT_77:"g", UNIT_NUTRIENT_78:"mg", UNIT_NUTRIENT_79:"mg", NUTRIENT_19:"2034.0463", UNIT_NUTRIENT_119:"mg", SCORE_ESTIMATED_GLYCEMIC_LOAD:"0.0", DV_NUTRIENT_4:"300.0", DV_NUTRIENT_111:"400.0", DV_NUTRIENT_110:"2.0", DV_NUTRIENT_5:"25.0", NUTRIENT_20:"2276.8208", UNIT_NUTRIENT_115:"mcg", UNIT_NUTRIENT_116:"mg", NUTRIENT_21:"~", UNIT_NUTRIENT_117:"mg", UNIT_NUTRIENT_118:"mg", UNIT_NUTRIENT_111:"mcg", NUTRIENT_24:"21331.227", DV_NUTRIENT_119:"400.0", NUTRIENT_25:"~", UNIT_NUTRIENT_112:"mcg", DV_NUTRIENT_118:"18.0", UNIT_NUTRIENT_113:"mcg", NUTRIENT_22:"8155.7236", DV_NUTRIENT_117:"1000.0", UNIT_NUTRIENT_114:"mcg", NUTRIENT_23:"~", DV_NUTRIENT_116:"10.0", NUTRIENT_28:"~", DV_NUTRIENT_115:"6.0", NUTRIENT_29:"~", DV_NUTRIENT_0:"2000.0", NUTRIENT_26:"9829.191", NUTRIENT_27:"~", UNIT_NUTRIENT_110:"mg", DV_NUTRIENT_121:"3500.0", DV_NUTRIENT_120:"1000.0", DV_NUTRIENT_123:"15.0", DV_NUTRIENT_122:"2400.0", UNIT_NUTRIENT_128:"g", NUTRIENT_30:"~", UNIT_NUTRIENT_129:"g", UNIT_NUTRIENT_126:"mcg", NUTRIENT_31:"23.426758", UNIT_NUTRIENT_127:"g", NUTRIENT_32:"~", UNIT_NUTRIENT_124:"mg", NUTRIENT_33:"~", UNIT_NUTRIENT_125:"mg", NUTRIENT_34:"1815.9913", UNIT_NUTRIENT_122:"mg", NUTRIENT_35:"~", UNIT_NUTRIENT_123:"mg", NUTRIENT_36:"~", NUTRIENT_37:"~", UNIT_NUTRIENT_120:"mg", DV_NUTRIENT_125:"2.0", DV_NUTRIENT_124:"2.0", UNIT_NUTRIENT_121:"mg", NUTRIENT_38:"20406.262", NUTRIENT_39:"~", DV_NUTRIENT_126:"70.0", NUTRIENT_42:"0.0", UNIT_NUTRIENT_137:"mcg", NUTRIENT_43:"~", UNIT_NUTRIENT_139:"mg", NUTRIENT_40:"~", NUTRIENT_41:"0.0", UNIT_NUTRIENT_130:"mg", UNIT_NUTRIENT_131:"mg", NUTRIENT_48:"1831.8105", NUTRIENT_49:"~", UNIT_NUTRIENT_133:"mcg", NUTRIENT_46:"3.0117264", UNIT_NUTRIENT_134:"mcg", NUTRIENT_47:"~", NUTRIENT_44:"~", UNIT_NUTRIENT_135:"mcg", UNIT_NUTRIENT_136:"mcg", NUTRIENT_45:"~", NUTRIENT_51:"~", NUTRIENT_52:"~", NUTRIENT_53:"~", NUTRIENT_54:"~", DV_NUTRIENT_101:"~", DV_NUTRIENT_100:"60.0", NUTRIENT_50:"~", NUTRIENT_59:"~", DV_NUTRIENT_103:"80.0", DV_NUTRIENT_102:"20.0", UNIT_NUTRIENT_143:"mg", UNIT_NUTRIENT_140:"mg", DV_NUTRIENT_107:"1.5", NUTRIENT_55:"1180.0253", NUTRIENT_56:"~", DV_NUTRIENT_109:"20.0", UNIT_NUTRIENT_144:"mg", NUTRIENT_57:"~", DV_NUTRIENT_108:"1.7", NUTRIENT_58:"0.0", UNIT_NUTRIENT_145:"mcg", NUTRIENT_109:"0.042005304", NUTRIENT_108:"0.034002267", NUTRIENT_107:"0.0050004874", NUTRIENT_116:"0.11000829", NUTRIENT_117:"23.998045", NUTRIENT_114:"3.0001352", NUTRIENT_115:"0.12997942", NUTRIENT_112:"3.0001352", NUTRIENT_113:"0.0", NUTRIENT_110:"0.0030005984", NUTRIENT_111:"3.0001352", NUTRIENT_103:"7.000213", NUTRIENT_104:"~", NUTRIENT_105:"~", NUTRIENT_106:"~", NUTRIENT_100:"0.0", aifr:"[ -258, -72, -390, -24, -10, -196 ]", NUTRIENT_101:"~", NUTRIENT_102:"2.320013", UNIT_NUTRIENT_7:"g", UNIT_NUTRIENT_5:"g", UNIT_NUTRIENT_6:"g", NUTRIENT_129:"2.1101649", UNIT_NUTRIENT_4:"g", UNIT_NUTRIENT_97:"IU", NUTRIENT_134:"158.0142", NUTRIENT_135:"0.0", NUTRIENT_132:"~", UNIT_NUTRIENT_95:"mg", UNIT_NUTRIENT_94:"mg", NUTRIENT_133:"0.0", NUTRIENT_138:"0.0", NUTRIENT_139:"1180.0253", NUTRIENT_136:"0.0", UNIT_NUTRIENT_99:"mcg", UNIT_NUTRIENT_98:"mcg", NUTRIENT_137:"0.0", NUTRIENT_130:"0.0", UNIT_NUTRIENT_93:"mg", NUTRIENT_131:"0.0", UNIT_NUTRIENT_92:"mg", UNIT_NUTRIENT_91:"mg", UNIT_NUTRIENT_90:"mg", DV_NUTRIENT_15:"20.0", DV_NUTRIENT_14:"65.0", FOODSERVING_WEIGHT_1:"1 ounce (28g)", NUTRIENT_119:"1.9998937", FOODSERVING_WEIGHT_0:"100 grams", NUTRIENT_118:"0.1599787", FOODSERVING_WEIGHT_5:"76 g", FOODSERVING_WEIGHT_4:"3 g", FOODSERVING_WEIGHT_3:"9 g", FOODSERVING_WEIGHT_2:"151 g", UNIT_NUTRIENT_84:"mg", NUTRIENT_121:"25.996523", NUTRIENT_16:"2630.079", NUTRIENT_122:"826.9012", UNIT_NUTRIENT_83:"mg", NUTRIENT_15:"50.48367", NUTRIENT_18:"905.88794", NUTRIENT_123:"0.050003715", UNIT_NUTRIENT_86:"mg", UNIT_NUTRIENT_85:"mg", NUTRIENT_124:"0.01600113", NUTRIENT_17:"1556.9995", NUTRIENT_12:"~", UNIT_NUTRIENT_103:"mcg", NUTRIENT_125:"0.0039997105", UNIT_NUTRIENT_88:"mg", NUTRIENT_126:"1.0000149", UNIT_NUTRIENT_87:"mg", UNIT_NUTRIENT_102:"mg", NUTRIENT_11:"~", NUTRIENT_14:"81.10934", NUTRIENT_127:"0.0", UNIT_NUTRIENT_89:"mg", NUTRIENT_128:"15.871475", UNIT_NUTRIENT_100:"mg", NUTRIENT_13:"~", UNIT_NUTRIENT_107:"mg", NUTRIENT_10:"~", UNIT_NUTRIENT_80:"mg", UNIT_NUTRIENT_82:"mg", UNIT_NUTRIENT_109:"mg", SCORE_INFLAMMATION_FACTOR:"-258.02181653946", UNIT_NUTRIENT_108:"mg", NUTRIENT_120:"23.001692", UNIT_NUTRIENT_81:"mg" };
+    fillSpanValues(document.form4.serving.options[document.form4.serving.options.selectedIndex]);
+    var vars = getLabelVars(document.form4.serving);
+    var FO = { name:"Nutrition facts label for Butter, whipped, with salt", movie:"/images/flash/nfl.swf", width:"219", height:"347", wmode:"opaque", majorversion:"7", build:"0", flashvars:"lcId=" + flashProxy.uid + vars};
+    UFO.create(FO, "nfl");
+    -->
+</script>
+
+            </div>
+
+            <div id="rightrail">
+                <!-- <h1 style="color:red; font-size:30px">in the right rail</h1> -->
+               
+
+
+
+
+
+
+
+<div class="ecom-rr-a">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+        <div id="AMS_SLF_ND_GLOBAL_RIGHTRAIL_A" class="ecom-placement">
+            <a href="https://w1.buysub.com/loc/SLF/ATGFailsafeND" target="_blank" rel="nofollow"><img src="/images/ecom/failsafe/right_rail_a.jpg" alt="Subscribe to Self" border="0" /></a>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+<script type="text/javascript">
+CN.hearstQue.register(function(pageAds){
+    var div = null;
+    if ((typeof pageAds !== 'undefined') && (typeof pageAds.AMS_SLF_ND_GLOBAL_RIGHTRAIL_A !== 'undefined') && (CN.url.params('nojoy') != 1) ) {
+
+        div = document.getElementById("AMS_SLF_ND_GLOBAL_RIGHTRAIL_A");
+        div.innerHTML = "";
+
+        
+        jQuery("#AMS_SLF_ND_GLOBAL_RIGHTRAIL_A").html(pageAds.AMS_SLF_ND_GLOBAL_RIGHTRAIL_A.replace(/document.write\(.*\)/gi,"/*filtered by amg-magnet:document.write(...)*/"));
+        jQuery(div).css({
+            visibility: 'visible'
+        });
+    }
+
+    
+});
+
+</script>
+
+
+        </div>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+    
+    
+        
+        
+    
+
+
+</div>
+
+
+
+
+
+
+<div id="rr_300x250_top">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div id="rrTop300x250_frame" class="displayAd"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('rrTop', {sz:'300x250', kws:["rrTop"]});
+    //-->
+    </script>
+    
+
+
+
+            <!-- DART AD START kw=top;kw=facts;kw=breakfast-cereals;kw=1;kw=1;!c=top;!c=facts;!c=breakfast-cereals;!c=1;!c=1; -->
+            <!--
+            <iframe name="rrTop300x250" id="rrTop300x250" src="/nocount/blankiframe.html" scrolling="no" frameborder="0" width="300" height="250"></iframe>
+            <script type="text/javascript">
+            MAGNET.page = MAGNET.page || {},
+            MAGNET.page.config = MAGNET.page.config || {},
+            MAGNET.page.config.adCallParams = {
+               store : true
+            };
+
+            (function($C) {
+                if($C.adCallEvents){
+                    for (var event in $C.adCallEvents){
+                        $C.adCallParams[event]=$C.adCallEvents[event];
+                    }
+                }
+            })(MAGNET.page.config);
+
+
+            if (MAGNET.dart.init) {
+                MAGNET.dart.init({site:'self.dart',zone: '/nd_facts;'});
+            }
+            MAGNET.dart.request('rrTop300x250', 'kw=top;kw=facts;kw=breakfast-cereals;kw=1;kw=1;!c=top;!c=facts;!c=breakfast-cereals;!c=1;!c=1;sz=300x250;dcopt=ist;', MAGNET.page.config.adCallParams);
+            </script>
+            -->
+    
+
+
+</div>
+
+
+<style type="text/css">
+	#HealthBloggerPromo 		{width:300px; height:83px; margin:15px 0 0 0; display:none;}
+	#HealthBloggerPromo img	{float: right}
+	#HealthBloggerPromo_graphic {background-image:url(/images/rightrail/hhc_rightrailpromo_a.gif); width:159px;height:83px; float:left; text-align:right}
+	#HealthBloggerPromo_graphic span a	{font-size:12px; color:#CECECE; width:140px; padding: 28px 0 0 12px; float:left; }
+
+	#spacer_for_hide_mode { height: 5px;}
+
+	#social_media_module {width:300px; margin:15px 0 0 0; display:none;}
+	#SMM-facebook { height:20px; padding:4px 0; margin: 0; border-top-color:#acbac5; border-top-style:solid; border-top-width: 1px; border-bottom-color:#c1c1c1; border-bottom-style:dotted; border-bottom-width: 1px; }
+	#SMM-twitter {  height:20px; padding:4px 0; margin: 0;}
+	.instructive {position:  relative; top:  -5px;}
+	
+</style>
+
+<!-- Champions Promo Module -->
+<div id="HealthBloggerPromo">
+	<div id="HealthBloggerPromo_graphic"><span><a href="http://www." target="_blank">
+    <br />copycopy<br />copycopy</a></span></div>
+    <a href="http://www." target="_blank"><img src="/images/rightrail/hhc_rightrailpromo_b.jpg" alt="copycopy"  title="copycopy" width="141" height="83" border="0"></a>
+</div><span id="spacer_for_hide_mode"></span>
+
+<!-- Social-Media Module -->
+<div id="social_media_module"> 
+	<div id="SMM-facebook">
+<a href="http://apps.facebook.com/nutritiondata/" title="Become our Fan on Facebook." target="_blank"><img src="/images/global/nd_facebookicon.gif" width="20" height="20" alt="Facebook Icon" border="0" /></a>
+<a href="http://apps.facebook.com/nutritiondata/" title="Become our Fan on Facebook" target="_blank" class="instructive">Become our Fan on Facebook</a>
+	</div>
+	<div id="SMM-twitter">
+    <a href="http://twitter.com/nutritiondata" title="Follow us on Twitter" target="_blank"><img src="/images/global/nd_twittericon.gif" width="20" height="20" alt="Facebook Icon" border="0" /></a> <a href="http://twitter.com/nutritiondata" title="Follow us on Twitter" target="_blank" class="instructive">Follow us on Twitter</a>
+	</div>
+</div>
+
+
+
+
+<div class="right-rail-box" style="margin-top: 10px;">
+	<div class="padBox">
+		<ul>
+			<li class="header13"><img src="/images/rightrail/unit-conversion-header.gif" alt="Unit Conversion" /></li>
+			<li style="margin-top: 10px">
+			<form name="formcon" action="" class="ieMarginForms" id="RRailUnitConv_form">
+				<input type="text" name="q0" size="2" onchange="convert(0);" style="text-align:right" value="1" />
+				<select name="m0" size="1" onchange="convert(1);">
+					<option value="17680">gallon</option>
+					<option value="11920">quart</option>
+					<option value="1960">pint</option>
+					<option value="1480" selected="selected">cup</option>
+					<option value="160">fl oz</option>
+					<option value="130">tbsp</option>
+					<option value="110">tsp</option>
+					<option value="12.029">ml</option>
+					<option value="12028.8">liter</option>
+					<option value="0">&#160;</option>
+					<option value="21600">lb</option>
+					<option value="2100">oz</option>
+					<option value="23.5273">g</option>
+					<option value="23527.3">kg</option>
+					<option value="0">&#160;</option>
+					<option value="34.1868">kcal</option>
+					<option value="31">kj</option>
+				</select>
+				&#160;=&#160;
+				<input type="text" name="q1" size="2" onchange="convert(2);" style="text-align:right" value="8" />
+				<select name="m1" size="1" onchange="convert(3);">
+					<option value="17680">gallon</option>
+					<option value="11920">quart</option>
+					<option value="1960">pint</option>
+					<option value="1480">cup</option>
+					<option value="160" selected="selected">fl oz</option>
+					<option value="130">tbsp</option>
+					<option value="110">tsp</option>
+					<option value="12.029">ml</option>
+					<option value="12028.8">liter</option>
+					<option value="0">&#160;</option>
+					<option value="21600">lb</option>
+					<option value="2100">oz</option>
+					<option value="23.5273">g</option>
+					<option value="23527.3">kg</option>
+					<option value="0">&#160;</option>
+					<option value="34.1868">kcal</option>
+					<option value="31">kj</option>
+				</select>
+			</form>
+			</li>
+		</ul>
+	</div>
+	<div class="right-rail-box-footer"></div>
+</div>
+
+
+<!--[if IE]><style>li.padT { padding-top: 1px; }</style><![endif]-->
+<div class="right-rail-box-whitetop">
+	<div class="padBox">
+		<ul style="height: 21px;">
+			<li class="header13"><img src="/images/rightrail/see-foods-that-are-header.gif" alt="See foods that are:" /></li>
+		</ul>
+		<ul class="left" style="width: 99px;">
+			<li class="padT"><span class="whiteText padL4">Highest in:</span></li>
+			<li class="links">
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000001000000000000000-w.html');">Calories</a><br />
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000005000000000000000-w.html');">Carbohydrates</a><br />
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000015000000000000000-w.html');">Fat</a><br />
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000994000000000000000.html');" onmouseover="getElementById('UnderlineLink5').style.textDecoration='underline'; getElementById('UnderlineLink6').style.textDecoration='underline';" onmouseout="getElementById('UnderlineLink5').style.textDecoration='none'; getElementById('UnderlineLink6').style.textDecoration='none';" id="UnderlineLink5">Estimated</a><br /><span style="margin-left: 7px;"><a href="javascript:categoryLink('/foods-000994000000000000000.html');" onmouseover="getElementById('UnderlineLink6').style.textDecoration='underline'; getElementById('UnderlineLink5').style.textDecoration='underline';" onmouseout="getElementById('UnderlineLink6').style.textDecoration='none'; getElementById('UnderlineLink5').style.textDecoration='none';" id="UnderlineLink6">Glycemic Load</a></span><br />
+				<!--<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000992000000000000000.html');" onmouseover="getElementById('UnderlineLink8').style.textDecoration='underline'; getElementById('UnderlineLink7').style.textDecoration='underline';" onmouseout="getElementById('UnderlineLink8').style.textDecoration='none'; getElementById('UnderlineLink7').style.textDecoration='none';" id="UnderlineLink7">Was IF Before Nutrient Density</a><br /><span style="margin-left: 7px;"><a href="javascript:categoryLink('/foods-000992000000000000000.html');" onmouseover="getElementById('UnderlineLink7').style.textDecoration='underline'; getElementById('UnderlineLink8').style.textDecoration='underline';" onmouseout="getElementById('UnderlineLink7').style.textDecoration='none'; getElementById('UnderlineLink8').style.textDecoration='none';" id="UnderlineLink8">Factor</a>--></span>
+			</li>
+		</ul>
+		<ul class="left" style="width: 92px;">
+			<li class="padT"><span class="whiteText padL4">Lowest in:</span></li>
+			<li class="links">
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000000000000001000000-w.html');">Calories</a><br />
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000000000000005000000-w.html');">Carbohydrates</a><br />
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000000000000015000000-w.html');">Fat</a><br />
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000993000000000000000.html');" onmouseover="getElementById('UnderlineLink2').style.textDecoration='underline'; getElementById('UnderlineLink1').style.textDecoration='underline';" onmouseout="getElementById('UnderlineLink2').style.textDecoration='none'; getElementById('UnderlineLink1').style.textDecoration='none';" id="UnderlineLink1">Estimated</a><br /><span style="margin-left: 7px;"><a href="javascript:categoryLink('/foods-000993000000000000000.html');" onmouseover="getElementById('UnderlineLink1').style.textDecoration='underline'; getElementById('UnderlineLink2').style.textDecoration='underline';" onmouseout="getElementById('UnderlineLink1').style.textDecoration='none'; getElementById('UnderlineLink2').style.textDecoration='none';" id="UnderlineLink2">Glycemic Load</a></span><br />
+				<!--<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000991000000000000000.html');" onmouseover="getElementById('UnderlineLink4').style.textDecoration='underline'; getElementById('UnderlineLink3').style.textDecoration='underline';" onmouseout="getElementById('UnderlineLink4').style.textDecoration='none'; getElementById('UnderlineLink3').style.textDecoration='none';" id="UnderlineLink3">Was IF Before Nutrient Density</a><br /><span style="margin-left: 7px;"><a href="javascript:categoryLink('/foods-000991000000000000000.html');" onmouseover="getElementById('UnderlineLink3').style.textDecoration='underline'; getElementById('UnderlineLink4').style.textDecoration='underline';" onmouseout="getElementById('UnderlineLink3').style.textDecoration='none'; getElementById('UnderlineLink4').style.textDecoration='none';" id="UnderlineLink4">Factor</a>--></span>
+			</li>
+		</ul>
+		<ul class="left" style="width: 101px;">
+			<li class="padT"><span class="whiteText padL4">Best choices for:</span></li>
+			<li class="links">
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000997000000000000000.html');">Weight loss</a><br />
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000998000000000000000.html');">Optimum health</a><br />
+				<span class="linkcolor">&#8226;</span> <a href="javascript:categoryLink('/foods-000996000000000000000.html');">Weight gain</a>
+			</li>
+		</ul>				
+	</div>
+	<div class="right-rail-box-footer"></div>
+</div>
+
+
+
+
+
+<div class="right-rail-box">
+    <div class="padBox">
+        <ul>
+            <li class="header13"><img src="/images/rightrail/cook-with-this-header.gif" alt="Cook with this" /></li>
+            <li class="black">Find recipes with this ingredient or dishes that<br />go with this food on Epicurious.com. Search for:</li>
+            <li style="margin-top: 10px">
+            <form name="cookWithThis" action="http://www.epicurious.com/tools/searchresults" method="post" target="_blank" class="ieMarginForms">
+                <input type="text" name="search" value="Butter" style="width:170px;"/>
+                <input type="submit" value="Search" class="nd_button" onFocus="this.blur()" />
+            </form>
+            </li>
+        </ul>
+    </div>
+    <div class="right-rail-box-footer"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rightrailtabs">
+    <div class="right-rail-tabbedbox">
+        <div class="sideTabs">
+            <div class="tabBackground" id="tabBackground">
+                <ul class="idTabs">
+                    <li class="tabBlog"><a class="selected" href="#Blog" onFocus="this.blur()" onclick="tabClickBlog();">Blog<span></span></a></li>
+                    <li class="tabFoods"><a class="" href="#Foods" onFocus="this.blur()" onclick="tabClickFoods();">Foods<span></span></a></li>
+                    <li class="tabRecipes"><a class="" href="#Recipes" onFocus="this.blur()" onclick="tabClickRecipes();">Recipes<span></span></a></li>
+                    <li class="tabNews"><a class="" href="#News" onFocus="this.blur()" onclick="tabClickNews();">News<span></span></a></li>
+                </ul>
+            </div>
+        </div><!--/sideTabs-->
+        <div id="bgrd">
+            <div class="padBox">
+                <ul style="display: block;" class="list1" id="Blog">
+                    <li>
+                        <a href="http://www.self.com/fooddiet/blogs/nutritiondata"><span class="title">The NutritionData Blog</span></a><br />
+                        
+                            <a href="http://www.self.com/blogs/flash/2013/04/celebfitness-kimberly-perry-triceps.html" rel="nofollow">Celeb Move to Steal: Get Kimberly Perry's Seriously Toned Triceps</a><br />
+                            <span class="excerpt">
+Country crooner Kimberly Perry has got an exciting weekend ahead: She'll get to strut her way...</span>
+                        
+                    </li>
+                    <li>
+                        <a href="http://www.self.com/fooddiet/blogs/nutritiondata-dieting-weight-loss"><span class="title">Dieting &#38; Weight Loss</span></a><br />
+                        
+                            <a href="http://www.self.com/blogs/flash/2013/04/celebfitness-kimberly-perry-triceps.html" rel="nofollow">Celeb Move to Steal: Get Kimberly Perry's Seriously Toned Triceps</a><br />
+                            <span class="excerpt">
+Country crooner Kimberly Perry has got an exciting weekend ahead: She'll get to strut her way...</span>
+                        
+                    </li>
+                </ul>
+                <ul style="display: none;" class="list3" id="Foods">
+                    <li><a href="/foods-0.html"><span class="title">Popular Foods</span></a></li>
+                    <li><a href="/facts/fruits-and-fruit-juices/1846/2" rel="nofollow">Bananas, raw</a></li>
+<li><a href="/facts/fruits-and-fruit-juices/1809/2" rel="nofollow">Apples, raw, with skin [Includes USDA commodity food A343]</a></li>
+<li><a href="/facts/vegetables-and-vegetable-products/2667/2" rel="nofollow">Sweet potato, cooked, baked in skin, without salt [Sweetpotato]</a></li>
+<li><a href="/facts/dairy-and-egg-products/112/2" rel="nofollow">Egg, white, raw, fresh</a></li>
+<li><a href="/facts/fruits-and-fruit-juices/1843/2" rel="nofollow">Avocados, raw, all commercial varieties</a></li>
+
+                    <li class="right"><a href="/foods-0.html" rel="nofollow">See top 50 foods &#8250;</a></li>
+                </ul>
+                <ul style="display: none;" class="list4" id="Recipes">
+                    <li><a href="/topics/recipes"><span class="title">Healthy Recipes</span></a></li>
+                    
+                        
+                        <li><a title="Linguine with Mussels and Fresh Herbs" href="/topics/recipes?indexDate=2013-04-05" rel="nofollow">Linguine with Mussels and Fresh Herbs</a></li>
+                    
+                        
+                        <li><a title="Sake Sea Bass in Parchment" href="/topics/recipes?indexDate=2013-04-04" rel="nofollow">Sake Sea Bass in Parchment</a></li>
+                    
+                        
+                        <li><a title="Soft Scrambled Eggs with Fresh Ricotta and Chives" href="/topics/recipes?indexDate=2013-04-03" rel="nofollow">Soft Scrambled Eggs with Fresh Ricotta and Chives</a></li>
+                    
+                        
+                        <li><a title="Seared Wild Salmon with New Potatoes and Dijon Broth" href="/topics/recipes?indexDate=2013-04-02" rel="nofollow">Seared Wild Salmon with New Potatoes and Dijon Broth</a></li>
+                    
+                        
+                        <li><a title="Brunswick Stew" href="/topics/recipes?indexDate=2013-04-01" rel="nofollow">Brunswick Stew</a></li>
+                    
+                    <li class="right"><a href="/topics/recipes">See all recipes &#8250;</a></li>
+                </ul>
+                <ul style="display: none;" class="list1" id="News">
+                    <li><a href="/topics/nutrition-news"><span class="title">Nutrition News</span></a></li>
+                    
+                        <li><a href="http://www.medicalnewstoday.com/articles/258700.php" target="_blank" rel="nofollow">Less Salt and More Potassium Reduce Risk Of Stroke</a></li>
+                    
+                        <li><a href="http://www.medicalnewstoday.com/releases/258637.php" target="_blank" rel="nofollow">Reducing Salt And Increasing Potassium Will Have Major Global Health Benefits</a></li>
+                    
+                        <li><a href="http://www.medicalnewstoday.com/releases/258508.php" target="_blank" rel="nofollow">Nutritional Changes Essential Following Bariatric Surgery To Improve Type 2 Diabetes</a></li>
+                    
+                        <li><a href="http://www.medicalnewstoday.com/releases/258560.php" target="_blank" rel="nofollow">In Mouse Model, Fatty Acid Metabolite Shows Promise Against Cancer</a></li>
+                    
+                    <li class="right"><a href="/topics/nutrition-news">More news &#8250;</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="right-rail-box-footer"></div>
+    </div>
+</div>
+<br class="clearer" />
+<br class="clearer" />
+
+
+
+
+
+
+<div id="rr_300x250_bottom">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+            
+            
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div id="rrBottom300x250_frame" class="displayAd"></div>
+    <script type="text/javascript">
+    //<!--
+        
+        CN.dart.call('rrBottom', {sz:'300x250', kws:["rrBottom"]});
+    //-->
+    </script>
+    
+
+
+
+            <!-- DART AD START kw=bottom;kw=facts;kw=breakfast-cereals;kw=1;kw=1;!c=bottom;!c=facts;!c=breakfast-cereals;!c=1;!c=1; -->
+            <!--
+            <iframe name="rrBottom300x250" id="rrBottom300x250" src="/nocount/blankiframe.html" scrolling="no" frameborder="0" width="300" height="250"></iframe>
+            <script type="text/javascript">
+            MAGNET.page = MAGNET.page || {},
+            MAGNET.page.config = MAGNET.page.config || {},
+            MAGNET.page.config.adCallParams = {
+               store : true
+            };
+
+            (function($C) {
+                if($C.adCallEvents){
+                    for (var event in $C.adCallEvents){
+                        $C.adCallParams[event]=$C.adCallEvents[event];
+                    }
+                }
+            })(MAGNET.page.config);
+
+
+            if (MAGNET.dart.init) {
+                MAGNET.dart.init({site:'self.dart',zone: '/nd_facts;'});
+            }
+            MAGNET.dart.request('rrBottom300x250', 'kw=bottom;kw=facts;kw=breakfast-cereals;kw=1;kw=1;!c=bottom;!c=facts;!c=breakfast-cereals;!c=1;!c=1;sz=300x250;dcopt=ist;', MAGNET.page.config.adCallParams);
+            </script>
+            -->
+    
+
+
+</div>
+
+
+
+            </div>
+        </div>
+
+        <div class="ecom-global-footer">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+       <div id="AMS_SLF_ND_GLOBAL_FOOTER" class="ecom-placement">
+            <a href="https://w1.buysub.com/loc/SLF/ATGFailsafeND" target="_blank" rel="nofollow"><img src="/images/ecom/failsafe/global_footer.jpg" alt="Subscribe to Self" border="0" /></a>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+<script type="text/javascript">
+CN.hearstQue.register(function(pageAds){
+    var div = null;
+    if ((typeof pageAds !== 'undefined') && (typeof pageAds.AMS_SLF_ND_GLOBAL_FOOTER !== 'undefined') && (CN.url.params('nojoy') != 1) ) {
+
+        div = document.getElementById("AMS_SLF_ND_GLOBAL_FOOTER");
+        div.innerHTML = "";
+
+        
+        jQuery("#AMS_SLF_ND_GLOBAL_FOOTER").html(pageAds.AMS_SLF_ND_GLOBAL_FOOTER.replace(/document.write\(.*\)/gi,"/*filtered by amg-magnet:document.write(...)*/"));
+        jQuery(div).css({
+            visibility: 'visible'
+        });
+    }
+
+    
+});
+
+</script>
+
+
+        </div>
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+    
+    
+        
+        
+    
+
+
+</div>
+
+        
+<!-- footer -->
+<div id="footerNew">
+	<img src="/images/global/rule_03.gif" width="976" height="1" border="0" style="margin-top: 15px"> 
+    <div class="blue_txt">
+        <span class="about_us">
+            <a href="/help/about" rel="nofollow">About Nutrition Data</a>
+        </span>
+		<span class="newsletter">
+            <a href="/tools/archive">Newsletters</a>
+        </span>
+        <span class="contactUs">
+            <a href="/services/feedback">Contact Us</a>
+        </span>
+        <span class="advertising">
+            <a href="http://www.condenet.com/nutrition.html" rel="nofollow" target="_blank">Advertising</a>
+        </span>
+        <span class="presscenter">
+            <a href="/services/press-center">Press Center</a>
+        </span>
+        <span class="sitemap" style="border: medium none;">
+            <a href="/help/sitemap" rel="nofollow">Site Map</a>
+        </span>
+    </div>
+	<br clear="all"/>
+	<p id="conde_net_sites"><span style="color:#000000;">Cond&eacute; Nast Web sites</span></p>
+	<p class="footerCN">
+		    <a href="http://www.epicurious.com/" target="_blank" rel="nofollow">Epicurious</a> / 
+			<a href="http://www.concierge.com/" target="_blank" rel="nofollow">Concierge</a> / 
+			<a href="http://www.hotelchatter.com/" target="_blank" rel="nofollow">Hotel Chatter</a> / 
+			<a href="http://www.jaunted.com/" target="_blank" rel="nofollow">Jaunted</a> / 
+            <a href="http://www.style.com/" target="_blank" rel="nofollow">Style.com</a> / 
+			<a href="http://men.style.com/" target="_blank" rel="nofollow">Men.Style.com</a> / 
+			<a href="http://www.wired.com/" target="_blank" rel="nofollow">Wired.com</a> / 
+			<a href="http://www.reddit.com/" target="_blank" rel="nofollow">Reddit</a> / 
+			<a href="http://arstechnica.com/index.ars" target="_blank" rel="nofollow">Ars Technica</a> / 
+			<a href="http://www.webmonkey.com/" target="_blank" rel="nofollow">Webmonkey</a> 
+	</p>
+	
+
+		<form id="subscribe_dropdown" name="subscribe_dropdown">
+            <select id="mag_list" onchange="if(document.subscribe_dropdown.mag_list.options[document.subscribe_dropdown.mag_list.selectedIndex].value != '') window.open(document.subscribe_dropdown.mag_list.options[document.subscribe_dropdown.mag_list.selectedIndex].value)" size="1" name="mag_list">
+                <option value="" selected="selected">Subscribe to a magazine</option>
+                <option value=""></option>
+                <option value="https://m1.buysub.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=11451&amp;storeId=11451&amp;categoryId=10484&amp;langId=-1&amp;sourcekey=ILDN51SP">View Special Offers</option>
+                <option value="http://www.magazinestoresubscriptions.com/?source=SITEFOOTER">View All Titles</option>
+                <option value="">- - - - - - - - - - - - - -</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Allure?source=SITEFOOTER">Allure</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ArchitecturalDigest?source=SITEFOOTER">Architectural Digest</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_BonAppetit?source=SITEFOOTER">Bon App&#233;tit</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Brides?source=SITEFOOTER">Brides</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastPortfolio?source=SITEFOOTER">Cond&eacute; Nast Portfolio</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastTraveler?source=SITEFOOTER">Cond&#233; Nast Traveler</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Cookie?source=SITEFOOTER">Cookie</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Details?source=SITEFOOTER">Details</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ElegantBride?source=SITEFOOTER">Elegant Bride</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Glamour?source=SITEFOOTER">Glamour</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfDigest?source=SITEFOOTER">Golf Digest</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfWorld?source=SITEFOOTER">Golf World</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Gourmet?source=SITEFOOTER">Gourmet</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GQ?source=SITEFOOTER">GQ</option>					
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Lucky?source=SITEFOOTER">Lucky</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ModernBride?source=SITEFOOTER">Modern Bride</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Self?source=SITEFOOTER">Self</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_TeenVogue?source=SITEFOOTER">Teen Vogue</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_NewYorker?source=SITEFOOTER">The New Yorker</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_VanityFair?source=SITEFOOTER">Vanity Fair</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Vogue?source=SITEFOOTER">Vogue</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_W?source=SITEFOOTER">W</option>
+<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Wired?source=SITEFOOTER">Wired</option>
+            </select>
+        </form>
+		
+		<form id="condenet_sites_dropdown" name="condenet_sites_dropdown">
+            <select id="mag_list" onchange="if(document.condenet_sites_dropdown.mag_list.options[document.condenet_sites_dropdown.mag_list.selectedIndex].value != '') window.open(document.condenet_sites_dropdown.mag_list.options[document.condenet_sites_dropdown.mag_list.selectedIndex].value)" size="1" name="mag_list">
+                <option value="" selected="selected">Cond&#233; Nast Web sites:</option>
+                <option value=""></option>
+                <option value="http://www.Allure.com/"> Allure </option>
+                <option value="http://www.ArchitecturalDigest.com/"> Architectural Digest </option>
+				<option value="http://www.ArsTechnica.com/"> Ars Technica </option>
+                <option value="http://www.BonAppetit.com/"> Bon App&eacute;tit </option>
+                <option value="http://www.Brides.com/"> Brides.com </option>
+				<option value="http://www.CNTraveler.com/">  Cond&eacute; Nast Traveler </option>
+                <option value="http://www.Portfolio.com/"> Cond&eacute; Nast Portfolio </option>
+                <option value="http://www.Concierge.com/"> Concierge </option>
+				<option value="http://www.CookieMag.com"> Cookie </option>
+				<option value="http://www.Details.com/"> Details </option>
+				<option value="http://www.brides.com/elegantbride/"> Elegant Bride </option> 
+				<option value="http://www.Epicurious.com/"> Epicurious </option> 
+                <option value="http://www.Glamour.com/"> Glamour </option>
+				<option value="http://www.GolfDigest.com/"> Golf Digest </option>
+				<option value="http://www.GolfWorld.com/"> Golf World </option>
+                <option value="http://www.Gourmet.com/"> Gourmet </option>
+				<option value="http://www.GQ.com/"> GQ </option>
+				<option value="http://www.HotelChatter.com/">  Hotel Chatter </option>
+				<option value="http://www.Jaunted.com/"> Jaunted </option>
+                <option value="http://www.LuckyMag.com/"> Lucky </option>
+				<option value="http://Men.Style.com/"> Men.Style.com </option>
+				<option value="http://www.ModernBride.com/"> Modern Bride </option>
+				<option value="http://www.Reddit.com/"> Reddit </option>
+                <option value="http://www.Self.com/"> Self </option>
+				<option value="http://www.Style.com/"> Style.com </option>
+                <option value="http://www.TeenVogue.com/"> Teen Vogue </option>
+                <option value="http://www.NewYorker.com/"> The New Yorker </option>
+				<option value="http://www.TheSartorialist.com/"> The Sartorialist </option>
+                <option value="http://www.VanityFair.com/"> Vanity Fair </option>
+				<option value="http://www.Vogue.com/"> Vogue </option>
+				<option value="http://www.Webmonkey.com/"> Webmonkey  </option>
+				<option value="http://www.Wired.com/"> Wired.com  </option>
+                <option value="http://www.Wmagazine.com/"> W </option>
+            </select>
+        </form>
+
+		<br clear="all"/>
+		<p class="disclaimer">
+        &copy; 2012 Cond&eacute; Nast. All rights reserved <br/>
+            	Use of this site constitutes acceptance of our <a href="http://www.condenast.com/privacy-policy" onclick="window.open(this.href);return false;">User Agreement</a> (effective 3/21/12) and <a href="http://www.condenast.com/privacy-policy#privacypolicy" onclick="window.open(this.href);return false;">Privacy Policy</a> (effective 3/21/12)<br/>
+            	<a href="http://www.condenast.com/privacy-policy#privacypolicy-california" onclick="window.open(this.href);return false;">Your California Privacy Rights</a><br/>
+            	The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond&eacute; Nast.
+
+  <div class="add-choice">
+                <div class="add-choice-text add-choice-img">
+                    <a href="http://www.condenast.com/privacy-policy#privacypolicy-optout" onclick="window.open(this.href);return false;">Ad Choices</a>
+                    <a href="http://www.condenast.com/privacy-policy#privacypolicy-optout" onclick="window.open(this.href);return false;"><img width="10" height="10" border="0" src="/images/ad_choices_arrow.png"></a>
+                </div>
+
+        </p>
+    	<br clear="all"/>
+		<div class="bottomLogo">
+            <div class="selflogo">
+            	<a href="http://www.self.com" target="_blank1"><img src="/images/global/SELFfooterLogo.gif" title="Go to the Self homepage" alt="Go to the Self homepage" width="48" height="33" border="0"></a>
+        	</div>
+        	<div class="ndlogo">
+                <a href="/"><img src="/images/global/footerLogo.gif" alt="Nutrition Data" title="Nutrition Data" width="216" height="33" border="0"></a>
+        	</div>
+			<div class="footerpoka">
+                <img src="/images/global/footerIcons.gif" alt="Nutrition Data" title="Nutrition Data" width="698" height="33" border="0">
+        	</div>
+<div class="clearer"></div>
+</div>
+</div>
+<div class="clearer"></div>
+<img border="0" src="/images/global/spacer.gif" />
+
+        
+
+
+
+<script language="JavaScript" type="text/javascript" src="/scripts/s_code.js"></script>
+<script type="text/javascript" src="/scripts/omniture.js"></script>
+<script type="text/javascript" src="/scripts/zig.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+
+
+
+    
+        
+        
+        
+            
+            
+                
+            
+        
+    
+    
+
+<script type="text/javascript">
+    //Omniture call to set page content type
+    CN.stats.omniture.setContentType("null");
+</script>
+<div id="statsHolder">
+    <script type="text/javascript">
+        CN.stats.omniture.setContentTitle("Butter, whipped, with salt");        CN.stats.omniture.setContentId('1');
+        CN.stats.omniture.setContentType('Food Facts');
+        CN.stats.omniture.addScrubRule(location.pathname.match(/\/facts\/recipe\/[0-9]+\/[0-9]+/),location.href.replace(/\/facts\/recipe\/[0-9]+\/[0-9]+/,'/facts/recipe'));
+         CN.stats.omniture.addScrubRule(location.pathname.match(/\/facts\/custom\/[0-9]+\/[0-9]+/),location.href.replace(/\/facts\/custom\/[0-9]+\/[0-9]+/,'/facts/custom'));
+        CN.stats.omniture.setStatus(200);
+        
+            
+            
+                CN.stats.omniture.doPageTracking(); // does init and also tracks
+                if(s.pdvalue == 1||2){ CN.stats.insight.doTracking(); } //fires insight tag
+            
+        
+    </script>
+    <script language="JavaScript" type="text/javascript"><!--
+    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+    //--></script>
+    <noscript>
+        <a href="http://www.omniture.com" title="Web Analytics"><img src="http://condenast.112.2o7.net/b/ss/conde-self/1/H.15.1--NS/0" height="1" width="1" border="0" alt="" /></a>
+    </noscript><!--/DO NOT REMOVE/-->
+</div>
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-8293713-12");
+        pageTracker._trackPageview();
+    } catch(err) {}
+</script>
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+    </body>
+</html>
