@@ -7,3 +7,5 @@ from scrapy.item import Item, Field
 
 class Ingredient(Item):
     name = Field()
+    servingSize = Field()
+    caloricBreakdown = Field()

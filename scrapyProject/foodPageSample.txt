@@ -1,37 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-
-
-
-
-
-
-
-
-
-
-
-
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
     <head>
         <title>
             
-                
-                    
-
-
-
-
-
-
-
-
-
 Nutrition Facts and Analysis for Butter, whipped, with salt
-
-                
-                
-            
+          
         </title>
         
 
@@ -88,164 +61,10 @@ Nutrition Facts and Analysis for Butter, whipped, with salt
 
         
 
-        <script type="text/javascript" src="http://www.self.com/js/ecomfw.min.js"></script>
-        
+        <script type="text/javascript" src="http://www.self.com/js/ecomfw.min.js"></script>          
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-
-
-
-
-
-    
-
-        
-            
-            
-        
-        
-            
-            
-        
-        
-            
-            
-        
-        
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-                
-                
-                                
-                
-
-
-
-    
-
-
-
-    
-
-
-
-    
-
-
-
-    
-
-
-
-    
-
-
-
-
-    
-
-
-
-    
-
-
-
-
-
-
-
-
-
-        
         <script type="text/javascript" src="/scripts/ecom/promotheus.js"></script>
-        
-        
-    
-    
 
-
-
-        
-        
 
         <script type="text/javascript" src="/scripts/cn.dart.js"></script>
 
@@ -263,22 +82,6 @@ Nutrition Facts and Analysis for Butter, whipped, with salt
         <link rel="shortcut icon" href="/images/favicon.ico" />
         
 
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-        
         
             <script type="text/javascript">
     //<!--
@@ -286,41 +89,11 @@ Nutrition Facts and Analysis for Butter, whipped, with salt
         CN.dart.init({site:'self.dart', zone: 'nd_home;', kws:[ "1","facts","breakfast-cereals"], charmap : {' ' : '+', '-' : '_'}});
     //-->
     </script>
-        
-    
-
-
-        
-
-
 
 <script type="text/javascript">
     categoryRedirect();
     tyntVariables = {"ap":"Read More"};
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <script>
@@ -589,36 +362,6 @@ CN.hearstQue = (function () {
          
         </div>
         <div id="header"
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
 
 
     <link rel="canonical" href="http://nutritiondata.self.com/facts/breakfast-cereals/1/1" />
@@ -4570,7 +4313,8 @@ CN.hearstQue.register(function(pageAds){
 </script>
 <div id="statsHolder">
     <script type="text/javascript">
-        CN.stats.omniture.setContentTitle("Butter, whipped, with salt");        CN.stats.omniture.setContentId('1');
+        CN.stats.omniture.setContentTitle("Butter, whipped, with salt");
+        CN.stats.omniture.setContentId('1');
         CN.stats.omniture.setContentType('Food Facts');
         CN.stats.omniture.addScrubRule(location.pathname.match(/\/facts\/recipe\/[0-9]+\/[0-9]+/),location.href.replace(/\/facts\/recipe\/[0-9]+\/[0-9]+/,'/facts/recipe'));
          CN.stats.omniture.addScrubRule(location.pathname.match(/\/facts\/custom\/[0-9]+\/[0-9]+/),location.href.replace(/\/facts\/custom\/[0-9]+\/[0-9]+/,'/facts/custom'));
