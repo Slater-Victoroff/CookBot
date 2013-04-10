@@ -150,8 +150,34 @@ casper.repeat(10690, function() {
 
 	//grabbing proteins
 	this.then(function() {
+		var proteinInfo = new Object();
+		proteinInfo.total = this.getHTML('span#NUTRIENT_77') + this.getHTML('span#UNIT_NUTRIENT_77');
+		proteinInfo.tryptophan = this.getHTML('span#NUTRIENT_78') + this.getHTML('span#UNIT_NUTRIENT_78');
+		proteinInfo.threonine = this.getHTML('span#NUTRIENT_79') + this.getHTML('span#UNIT_NUTRIENT_79');
+		proteinInfo.isoleucine = this.getHTML('span#NUTRIENT_80') + this.getHTML('span#UNIT_NUTRIENT_80');
+		proteinInfo.leucine = this.getHTML('span#NUTRIENT_81') + this.getHTML('span#UNIT_NUTRIENT_81');
+		proteinInfo.lysine = this.getHTML('span#NUTRIENT_82') + this.getHTML('span#UNIT_NUTRIENT_82');
+		proteinInfo.methionine = this.getHTML('span#NUTRIENT_83') + this.getHTML('span#UNIT_NUTRIENT_83');
+		proteinInfo.cystine = this.getHTML('span#NUTRIENT_84') + this.getHTML('span#UNIT_NUTRIENT_84');
+		proteinInfo.phenylalanine = this.getHTML('span#NUTRIENT_85') + this.getHTML('span#UNIT_NUTRIENT_85');
+		proteinInfo.tyrosine = this.getHTML('span#NUTRIENT_86') + this.getHTML('span#UNIT_NUTRIENT_86');
+		proteinInfo.valine = this.getHTML('span#NUTRIENT_87') + this.getHTML('span#UNIT_NUTRIENT_87');
+		proteinInfo.arginine = this.getHTML('span#NUTRIENT_88') + this.getHTML('span#UNIT_NUTRIENT_88');
+		proteinInfo.histidine = this.getHTML('span#NUTRIENT_89') + this.getHTML('span#UNIT_NUTRIENT_89');
+		proteinInfo.alanine = this.getHTML('span#NUTRIENT_90') + this.getHTML('span#UNIT_NUTRIENT_90');
+		proteinInfo.asparticAcid = this.getHTML('span#NUTRIENT_91') + this.getHTML('span#UNIT_NUTRIENT_91');
+		proteinInfo.glutamicAcid = this.getHTML('span#NUTRIENT_92') + this.getHTML('span#UNIT_NUTRIENT_92');
+		proteinInfo.glycine = this.getHTML('span#NUTRIENT_93') + this.getHTML('span#UNIT_NUTRIENT_93');
+		proteinInfo.proline = this.getHTML('span#NUTRIENT_94') + this.getHTML('span#UNIT_NUTRIENT_94');
+		proteinInfo.serine = this.getHTML('span#NUTRIENT_95') + this.getHTML('span#UNIT_NUTRIENT_95');
+		proteinInfo.hydroxyproline = this.getHTML('span#NUTRIENT_96') + this.getHTML('span#UNIT_NUTRIENT_96');
+		proteins.push(proteinInfo);
+	}); 
 
-	});
+	//grabbing vitamins
+	this.then(function(){
+
+	})
 
 });
 

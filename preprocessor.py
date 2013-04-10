@@ -5,4 +5,4 @@ def nutrients(start, end):
 	for i in range(start,end+1):
 		print valueBase + str(i) + unitBase + str(i) + endcap
 
-nutrients(61, 80)
+nutrients(77, 96)
