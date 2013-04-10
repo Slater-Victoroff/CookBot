@@ -1,4 +1,6 @@
 var casper = require('casper').create();
+var fs = require('fs');
+
 var currentFood = 0;
 var currentUrl;
 var baseUrl = "http://nutritiondata.self.com/facts/snacks/"
@@ -11,7 +13,7 @@ var proteins = new Array();
 var vitamins = new Array();
 var minerals = new Array();
 var sterols = new Array();
-var other = new Array(); 
+var others = new Array(); 
 
 casper.start("http://nutritiondata.self.com/");
 
@@ -140,9 +142,9 @@ casper.repeat(10690, function() {
 
 		fattyAcidsInfo.totalTrans = this.getHTML('span#NUTRIENT_70') + this.getHTML('span#UNIT_NUTRIENT_70');
 		fattyAcidsInfo.transMonoenoic = this.getHTML('span#NUTRIENT_71') + this.getHTML('span#UNIT_NUTRIENT_71');
-		fattyAcidsInfo.transPolyenoic = this.getHTML('span#NUTRIENT_72') + this.getHTML('span#UNIT_NUTRIENT_72');
-		fattyAcidsInfo.omega3 = this.getHTML('span#NUTRIENT_73') + this.getHTML('span#UNIT_NUTRIENT_73');
-		fattyAcidsInfo.omega6 = this.getHTML('span#NUTRIENT_74') + this.getHTML('span#UNIT_NUTRIENT_74');
+		fattyAcidsInfo.transPolyenoic = this.getHTML('span#NUTRIENT_132') + this.getHTML('span#UNIT_NUTRIENT_132');
+		fattyAcidsInfo.omega3 = this.getHTML('span#NUTRIENT_139') + this.getHTML('span#UNIT_NUTRIENT_139');
+		fattyAcidsInfo.omega6 = this.getHTML('span#NUTRIENT_140') + this.getHTML('span#UNIT_NUTRIENT_140');
 		fatsInfo.fattyAcids = fattyAcidsInfo;
 
 		fats.push(fatsInfo);
@@ -176,9 +178,113 @@ casper.repeat(10690, function() {
 
 	//grabbing vitamins
 	this.then(function(){
+		var vitaminInfo = new Object();
+		var vitaminA = new Object();
+		var vitaminE = new Object();
+		var vitaminB = new Object();
+		var folate = new Object();
 
-	})
+		vitaminA.total = this.getHTML('span#NUTRIENT_97') + this.getHTML('span#UNIT_NUTRIENT_97');
+		vitaminA.retinol = this.getHTML('span#NUTRIENT_98') + this.getHTML('span#UNIT_NUTRIENT_98');
+		vitaminA.retinolEquivalent = this.getHTML('span#NUTRIENT_99') + this.getHTML('span#UNIT_NUTRIENT_99');
+		vitaminA.alphaCarotene = this.getHTML('span#NUTRIENT_133') + this.getHTML('span#UNIT_NUTRIENT_133'); 
+		vitaminA.betaCarotene = this.getHTML('span#NUTRIENT_134') + this.getHTML('span#UNIT_NUTRIENT_134');
+		vitaminA.betaCryptoxanthin = this.getHTML('span#NUTRIENT_135') + this.getHTML('span#UNIT_NUTRIENT_135');
+		vitaminA.lycopene = this.getHTML('span#NUTRIENT_136') + this.getHTML('span#UNIT_NUTRIENT_136');
+		vitaminA.luteinZeaxanthin = this.getHTML('span#NUTRIENT_137') + this.getHTML('span#UNIT_NUTRIENT_137');
+		vitaminInfo.a = vitaminA;
 
+		vitaminInfo.c = this.getHTML('span#NUTRIENT_100') + this.getHTML('span#UNIT_NUTRIENT_100');
+		vitaminInfo.d = this.getHTML('span#NUTRIENT_101') + this.getHTML('span#UNIT_NUTRIENT_101');
+		vitaminE.alpha = this.getHTML('span#NUTRIENT_102') + this.getHTML('span#UNIT_NUTRIENT_102');
+		vitaminE.beta = this.getHTML('span#NUTRIENT_104') + this.getHTML('span#UNIT_NUTRIENT_104');
+		vitaminE.gamma = this.getHTML('span#NUTRIENT_105') + this.getHTML('span#UNIT_NUTRIENT_105');
+		vitaminE.delta = this.getHTML('span#NUTRIENT_106') + this.getHTML('span#UNIT_NUTRIENT_106');
+		vitaminInfo.e = vitaminE;
+
+		vitaminInfo.k = this.getHTML('span#NUTRIENT_103') + this.getHTML('span#UNIT_NUTRIENT_103');
+		vitaminB['1'] = this.getHTML('span#NUTRIENT_107') + this.getHTML('span#UNIT_NUTRIENT_107');
+		vitaminB['2'] = this.getHTML('span#NUTRIENT_108') + this.getHTML('span#UNIT_NUTRIENT_108');
+		vitaminB['3'] = this.getHTML('span#NUTRIENT_109') + this.getHTML('span#UNIT_NUTRIENT_109');
+		vitaminB['6'] = this.getHTML('span#NUTRIENT_110') + this.getHTML('span#UNIT_NUTRIENT_110');
+		vitaminB['5'] = this.getHTML('span#NUTRIENT_116') + this.getHTML('span#UNIT_NUTRIENT_116');
+	
+		folate.total = this.getHTML('span#NUTRIENT_111') + this.getHTML('span#UNIT_NUTRIENT_111');
+		folate.foodFolate = this.getHTML('span#NUTRIENT_112') + this.getHTML('span#UNIT_NUTRIENT_112');
+		folate.folicAcid = this.getHTML('span#NUTRIENT_113') + this.getHTML('span#UNIT_NUTRIENT_113');
+		folate.folateEquivalent = this.getHTML('span#NUTRIENT_114') + this.getHTML('span#UNIT_NUTRIENT_114');
+
+		vitaminB['9'] = folate;
+		vitaminB['12'] = this.getHTML('span#NUTRIENT_115') + this.getHTML('span#UNIT_NUTRIENT_115');
+		vitaminInfo.b = vitaminB;
+
+		vitaminInfo.choline = this.getHTML('span#NUTRIENT_143') + this.getHTML('span#UNIT_NUTRIENT_143');
+		vitaminInfo.betaine = this.getHTML('span#NUTRIENT_144') + this.getHTML('span#UNIT_NUTRIENT_144');
+		vitamins.push(vitaminInfo);
+	});
+	
+	//grab minerals
+	this.then(function(){
+		var mineralInfo = new Object();
+		mineralInfo.calcium = this.getHTML('span#NUTRIENT_117') + this.getHTML('span#UNIT_NUTRIENT_117');
+		mineralInfo.iron = this.getHTML('span#NUTRIENT_118') + this.getHTML('span#UNIT_NUTRIENT_118');
+		mineralInfo.magnesium = this.getHTML('span#NUTRIENT_119') + this.getHTML('span#UNIT_NUTRIENT_119');
+		mineralInfo.phosphorous = this.getHTML('span#NUTRIENT_120') + this.getHTML('span#UNIT_NUTRIENT_120');
+		mineralInfo.potassium = this.getHTML('span#NUTRIENT_121') + this.getHTML('span#UNIT_NUTRIENT_121');
+		mineralInfo.sodium = this.getHTML('span#NUTRIENT_122') + this.getHTML('span#UNIT_NUTRIENT_122');
+		mineralInfo.zinc = this.getHTML('span#NUTRIENT_123') + this.getHTML('span#UNIT_NUTRIENT_123');
+		mineralInfo.copper = this.getHTML('span#NUTRIENT_124') + this.getHTML('span#UNIT_NUTRIENT_124');
+		mineralInfo.manganese = this.getHTML('span#NUTRIENT_125') + this.getHTML('span#UNIT_NUTRIENT_125');
+		mineralInfo.selenium = this.getHTML('span#NUTRIENT_126') + this.getHTML('span#UNIT_NUTRIENT_126');
+		mineralInfo.fluoride = this.getHTML('span#NUTRIENT_145') + this.getHTML('span#UNIT_NUTRIENT_145');
+		minerals.push(mineralInfo);
+	});
+
+	//grab sterols
+	this.then(function(){
+		var sterolInfo = new Object();
+		var phytosterol = new Object();
+		sterolInfo.cholesterol = this.getHTML('span#NUTRIENT_72') + this.getHTML('span#UNIT_NUTRIENT_72');
+
+		phytosterol.total = this.getHTML('span#NUTRIENT_73') + this.getHTML('span#UNIT_NUTRIENT_73');
+		phytosterol.campesterol = this.getHTML('span#NUTRIENT_74') + this.getHTML('span#UNIT_NUTRIENT_74');
+		phytosterol.stigmasterol = this.getHTML('span#NUTRIENT_75') + this.getHTML('span#UNIT_NUTRIENT_75');
+		phytosterol.betaSitosterol = this.getHTML('span#NUTRIENT_76') + this.getHTML('span#UNIT_NUTRIENT_76');
+
+		sterolInfo.phytosterol = phytosterol;
+		
+		sterols.push(sterolInfo);
+	});
+
+	//grabbing other things
+	this.then(function(){
+		var other = Object();
+		other.alcohol = this.getHTML('span#NUTRIENT_127') + this.getHTML('span#UNIT_NUTRIENT_127');
+		other.water = this.getHTML('span#NUTRIENT_128') + this.getHTML('span#UNIT_NUTRIENT_128');
+		other.ash = this.getHTML('span#NUTRIENT_129') + this.getHTML('span#UNIT_NUTRIENT_129');
+		other.caffeine = this.getHTML('span#NUTRIENT_130') + this.getHTML('span#UNIT_NUTRIENT_130');
+		other.theobromine = this.getHTML('span#NUTRIENT_131') + this.getHTML('span#UNIT_NUTRIENT_131');
+		others.push(other);
+	});
 });
 
-casper.run()
+casper.run(function() {
+	var path = "/home/svictoroff/Documents/SelfImprovement/cookBot/casper/foodData.json";
+	var content = "";
+	for (var j = 0; j < names.length; j++){
+		var currentFood = new Object();
+		currentFood["name"] = names[j];
+		currentFood["servingSize"] = servingSizes[j];
+		currentFood["calories"] = calories[j];
+		currentFood["carbs"] = carbs[j];
+		currentFood["fat"] = fats[j];
+		currentFood["protein"] = proteins[j];
+		currentFood["vitamins"] = vitamins[j];
+		currentFood["minerals"] = minerals[j];
+		currentFood["sterols"] = minerals[j];
+		currentFood["other"] = others[j];
+		content += JSON.stringify(currentFood) + "\n";
+	};
+	fs.write(path,content,'w');
+	this.exit();
+});
