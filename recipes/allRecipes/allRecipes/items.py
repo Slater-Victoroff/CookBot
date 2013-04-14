@@ -7,7 +7,13 @@ from scrapy.item import Item, Field
 
 class Recipe(Item):
     name = Field()
-    homeTown = Field()
+    time = Field()
     rating = Field()
-    numberOfReviews = Field()
-    url = Field()
+    reviews = Field()
+    servings = Field()
+    ingredients = Field()
+    instructions = Field()
+    notes = Field()
+    prepTime = Field()
+    cookTime = Field()
+    totalTime = Field()

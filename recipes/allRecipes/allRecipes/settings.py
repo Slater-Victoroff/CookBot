@@ -14,3 +14,4 @@ NEWSPIDER_MODULE = 'allRecipes.spiders'
 DEFAULT_ITEM_CLASS = 'allRecipes.items.AllrecipesItem'
 USER_AGENT = '%s/%s' % (BOT_NAME, BOT_VERSION)
 
+ITEM_PIPELINES = ['allRecipes.pipelines.JsonWriterPipeline']
