@@ -1,0 +1,7 @@
+~421~^~Total Choline~^~CHOLN~^~mg~^~1~
+~450~^~Free Choline~^~CHOLNFR~^~mg~^~1~
+~451~^~Choline from phosphocholine~^~CHOLNPC~^~mg~^~1~
+~452~^~Choline from phosphatidylcholine~^~CHOLNPTC~^~mg~^~1~
+~453~^~Choline from glycerophoshocholine~^~CHOLNGPC~^~mg~^~1~
+~454~^~Betaine~^~BETN~^~mg~^~1~
+~455~^~Choline from sphingomyelin~^~CHOLNSM~^~mg~^~1~
